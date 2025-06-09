@@ -10,16 +10,12 @@ module.exports = {
 			colors: {
 				...baseConfig.theme.extend.colors,
 				accent: {
-					300: "#4495d1",
-					400: "#1a4f89",
-					500: "#12365e",
-					600: "#12365e",
+					400: "#1059a2",
+					500: "#0b457f",
 				},
-				orange: '#fa5f1a',
-				dark: '#040606'
 			},
 			fontFamily: {
-				'sans': ['Montserrat', ...defaultTheme.fontFamily.sans],
+				'sans': ['ChangAnunitype', ...defaultTheme.fontFamily.sans],
 			},
 		},
 	},
