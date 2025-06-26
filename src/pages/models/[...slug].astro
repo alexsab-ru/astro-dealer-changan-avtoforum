@@ -11,8 +11,9 @@ const { slug } = Astro.params;
 const seoname = 'models-'+slug;
 
 
-import models from '@/data/models.json';
+import modelsData from '@/data/models.json';
 export async function getStaticPaths() {
+  const { models } = modelsData;
   return models.filter(m => m.show).map((model) => {
     return {
       params: { slug: model.id },
@@ -60,7 +61,7 @@ const salonsPhone = salons.map((salon: any) => salon.phone).filter(phone => phon
   {
     (model?.complectations !== undefined && model?.complectations.length) && <ModelComplectations title={`Подобрать комплектацию ${model?.mark_id} ${model.name}`} model={model} brand={brand} />
   }
-  <SeoText mdx={seoname} />
+  <SeoText mdx={seoname} sectionPaddingBlock />
   <section>
     <div class="container">
       <FeedbackForm 
