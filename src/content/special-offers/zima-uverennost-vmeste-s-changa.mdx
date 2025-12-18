@@ -1,0 +1,56 @@
+---
+h1: "Зима - уверенность вместе с CHANGAN!"
+title: "Зима - уверенность вместе с CHANGAN!"
+caption: "Зима - уверенность вместе с CHANGAN!"
+breadcrumb: "Зима - уверенность вместе с CHANGAN!"
+pubDate: "2025-12-15"
+toDate: false
+image: "https://cdn.alexsab.ru/specials/changan/zima-uverennost-vmeste-s-changa/mobile.webp"
+description: "Зима - уверенность вместе с CHANGAN!"
+---
+import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common } = settings;
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+
+export const dateFrom = '15.12.2025';
+export const dateTo = `31.01.2026`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+
+<picture>
+	<source media="(min-width: 942px)" srcset="https://cdn.alexsab.ru/specials/changan/zima-uverennost-vmeste-s-changa/desktop.webp" />
+	<img src="https://cdn.alexsab.ru/specials/changan/zima-uverennost-vmeste-s-changa/thumb.webp" class="w-full mb-10" alt="Зима - уверенность вместе с CHANGAN!" />
+</picture>
+
+Контроль над дорогой, уверенные повороты и торможения. Подготовьтесь к зиме выгодно с CHANGAN!
+
+При проведении любого технического обслуживания или текущего ремонта в период проведения акции Дилер на безвозмездной основе предоставляет клиенту:
+
+1. Осмотр тормозной системы автомобиля:
+
+- Проверку состояния и износа передних и задних тормозных колодок.
+- Проверку состояния и износа передних и задних тормозных дисков.
+- Проверку состояния пыльников и направляющих передних и задних тормозных суппортов.
+- Осмотр тормозных трубок и тормозных шлангов на наличие течей, не герметичностей, механических повреждений, растрескиваний, вздутий.
+- Проверку уровня и качества тормозной жидкости (качество тормозной жидкости – процентное соотношение влаги в тормозной жидкости).
+
+2. Работы по обслуживанию тормозных механизмов (работы выполняются без оплаты в случае, если подтверждена замена колодок/дисков по данной акции):
+
+- Очистку механизмов
+- Смазку направляющих
+
+В случае если по результатам диагностики выявлена необходимость замены тормозных дисков или колодок, Дилер предоставляет Клиенту скидку 20% от РРЦ на расходные материалы тормозной системы автомобиля, а именно:
+
+- Передние тормозные колодки.
+- Задние тормозные колодки.
+- Передние тормозные диски
+- Задние тормозные диски.
+
+Также действует скидка 20% на набор автомобилиста.
+
+Акция действует с {dateFrom} по {dateTo} во всех официальных дилерских центрах CHANGAN
+
+<SpecialSalonsInfo dataFormName="Узнать подробнее. Зима - уверенность вместе с CHANGAN!" />
