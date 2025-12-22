@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "brand": "Changan",
+    "model": "CS35PLUS NEW",
+    "price": 2779900,
+    "benefit": 0
+  },
+  {
+    "brand": "Changan",
+    "model": "CS55PLUS",
+    "price": 2999900,
+    "benefit": 0
+  },
+  {
+    "brand": "Changan",
+    "model": "CS75PLUS",
+    "price": 4249900,
+    "benefit": 0
+  },
+  {
+    "brand": "Changan",
+    "model": "CS75plus",
+    "price": 3590000,
+    "benefit": 0
+  },
+  {
+    "brand": "Changan",
+    "model": "CS95NEW",
+    "price": 4609900,
+    "benefit": 0
+  },
+  {
+    "brand": "Changan",
+    "model": "EADOplus",
+    "price": 2529900,
+    "benefit": 0
+  },
+  {
+    "brand": "Changan",
+    "model": "HUNTERplus",
+    "price": 3889900,
+    "benefit": 0
+  },
+  {
+    "brand": "Changan",
+    "model": "UNI-K",
+    "price": 4599900,
+    "benefit": 0
+  },
+  {
+    "brand": "Changan",
+    "model": "UNI-T",
+    "price": 3239900,
+    "benefit": 0
+  }
+]
