@@ -1,8 +1,14 @@
 [
   {
     "brand": "Changan",
-    "model": "CS35PLUS NEW",
+    "model": "CS35 PLUS",
     "price": 2779900,
+    "benefit": 0
+  },
+  {
+    "brand": "Changan",
+    "model": "CS75PLUS",
+    "price": 3590000,
     "benefit": 0
   },
   {
@@ -13,13 +19,7 @@
   },
   {
     "brand": "Changan",
-    "model": "CS75plus",
-    "price": 3590000,
-    "benefit": 0
-  },
-  {
-    "brand": "Changan",
-    "model": "CS95NEW",
+    "model": "CS95",
     "price": 4609900,
     "benefit": 0
   },
@@ -31,7 +31,7 @@
   },
   {
     "brand": "Changan",
-    "model": "HUNTERplus",
+    "model": "HUNTER PLUS",
     "price": 3889900,
     "benefit": 0
   },
