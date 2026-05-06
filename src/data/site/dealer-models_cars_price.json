@@ -7,12 +7,6 @@
   },
   {
     "brand": "Changan",
-    "model": "CS55PLUS",
-    "price": 2999900,
-    "benefit": 0
-  },
-  {
-    "brand": "Changan",
     "model": "CS75PLUS",
     "price": 3590000,
     "benefit": 0
@@ -45,6 +39,12 @@
     "brand": "Changan",
     "model": "UNI-K",
     "price": 4599900,
+    "benefit": 0
+  },
+  {
+    "brand": "Changan",
+    "model": "UNI-S",
+    "price": 2999900,
     "benefit": 0
   },
   {
