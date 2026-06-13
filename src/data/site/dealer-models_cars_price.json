@@ -52,5 +52,11 @@
     "model": "UNI-V",
     "price": 3329900,
     "benefit": 0
+  },
+  {
+    "brand": "Changan",
+    "model": "UNI-V GEN3",
+    "price": 3499900,
+    "benefit": 0
   }
 ]
