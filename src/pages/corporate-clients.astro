@@ -4,6 +4,7 @@ import settings from '@/data/site/settings.json';
 import PageH1 from '@/ui/page-h1/PageH1.astro';
 import Button from '@/ui/button/Button.astro';
 import modelsData from '@/data/site/models.json';
+import { isModelVisible } from '@/js/utils/modelVisibility';
 import { Icon } from 'astro-icon/components';
 
 const { brand, legal_city_where } = settings;
@@ -12,18 +13,16 @@ const { models } = modelsData;
 // Список ID моделей для отображения
 const modelIds = [
 	'cs75plusnew',
+	'cs75plus-gen4',
 	'alsvin',
 	'cs35plusnew',
-	'cs55plus',
-	'cs75plus',
-	'cs95',
+	'cs95new',
 	'eadoplus',
-	'hunterplus',
-	'lamore'
+	'hunterplus'
 ];
 
 // Фильтруем модели по ID
-const selectedModels = models.filter(model => modelIds.includes(model.id));
+const selectedModels = models.filter(model => modelIds.includes(model.id) && isModelVisible(model));
 ---
 
 <Layout title={`Корпоративным клиентам ${brand}`} description={`Информация для корпоративных клиентов - официальный сайт CHANGAN в России.`}>
