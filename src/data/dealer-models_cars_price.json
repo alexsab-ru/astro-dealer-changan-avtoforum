@@ -25,6 +25,12 @@
   },
   {
     "brand": "Changan",
+    "model": "CS75PLUS",
+    "price": 2549000,
+    "benefit": 750000
+  },
+  {
+    "brand": "Changan",
     "model": "CS95",
     "price": 4099900,
     "benefit": 300000
