@@ -37,6 +37,12 @@
   },
   {
     "brand": "Changan",
+    "model": "EADO PLUS",
+    "price": 2589900,
+    "benefit": 0
+  },
+  {
+    "brand": "Changan",
     "model": "HUNTER PLUS",
     "price": 3849900,
     "benefit": 0
@@ -58,5 +64,11 @@
     "model": "UNI-T",
     "price": 3149900,
     "benefit": 130000
+  },
+  {
+    "brand": "Changan",
+    "model": "UNI-V",
+    "price": 3329900,
+    "benefit": 0
   }
 ]
