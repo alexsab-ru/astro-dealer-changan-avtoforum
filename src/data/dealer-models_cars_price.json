@@ -64,5 +64,11 @@
     "model": "UNI-T",
     "price": 2649900,
     "benefit": 470000
+  },
+  {
+    "brand": "Changan",
+    "model": "UNI-V",
+    "price": 2549900,
+    "benefit": 500000
   }
 ]
