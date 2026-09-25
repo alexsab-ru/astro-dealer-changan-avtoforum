@@ -49,6 +49,12 @@
   },
   {
     "brand": "Changan",
+    "model": "UNI-K",
+    "price": 4929900,
+    "benefit": 0
+  },
+  {
+    "brand": "Changan",
     "model": "UNI-S",
     "price": 2499900,
     "benefit": 480000
