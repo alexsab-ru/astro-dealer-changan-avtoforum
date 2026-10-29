@@ -169,7 +169,7 @@
     <model>UNI-S</model>
     <year>2026</year>
     <title>Changan UNI-S Люкс 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE6TA019226/0/full.webp?v=3626d0e2887c</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE6TA019226/0/full.webp?v=672d07486348</image_link>
     <price>3079900 RUB</price>
     <sale_price>2999000 RUB</sale_price>
     <min_price>2999000 RUB</min_price>
@@ -215,7 +215,7 @@
     <model>CS35 Max</model>
     <year>2026</year>
     <title>Changan CS35 Max Техно 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3BSE2EXTA000269/0/full.webp?v=22214be70083</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3BSE2EXTA000269/0/full.webp?v=96603602bb9d</image_link>
     <price>2839900 RUB</price>
     <sale_price>2499900 RUB</sale_price>
     <min_price>2499900 RUB</min_price>
@@ -445,7 +445,7 @@
     <model>UNI-T</model>
     <year>2026</year>
     <title>Changan UNI-T Техно_25 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/0/full.webp?v=b7a0b202bd35</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/0/full.webp?v=5a319e0b17de</image_link>
     <price>3509900 RUB</price>
     <sale_price>3299900 RUB</sale_price>
     <min_price>3299900 RUB</min_price>
@@ -468,7 +468,7 @@
     <model>UNI-V</model>
     <year>2026</year>
     <title>Changan UNI-V Техно 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/0/full.webp?v=dadf4a516cb1</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/0/full.webp?v=fc5f62125d95</image_link>
     <price>3529900 RUB</price>
     <sale_price>3249900 RUB</sale_price>
     <min_price>3249900 RUB</min_price>
@@ -576,36 +576,13 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>LS4ASE2A9SD008841</id>
-    <link>https://avto.avtoforum-changanauto.ru/cars/changan-cs75-plus-iv-20-at-235-hp-4wd-luxury-grey-2025/</link>
-    <brand>Changan</brand>
-    <model>CS75 Plus</model>
-    <year>2025</year>
-    <title>Changan CS75 Plus Люкс 2025</title>
-    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD008841/0/full.webp?v=9d6329d5eafd</image_link>
-    <price>4099900 RUB</price>
-    <sale_price>3399900 RUB</sale_price>
-    <min_price>3399900 RUB</min_price>
-    <max_price>4099900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Changan CS75 Plus, Люкс, 2.0 AT (235 л.с.) 4WD, 2025 г.</description>
-    <exterior_color>grey</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LS4ASE2A9SD008841</vin>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>LS4ASE2A9SD013408</id>
     <link>https://avto.avtoforum-changanauto.ru/cars/changan-cs75-plus-iv-20-at-235-hp-4wd-techno-grey-2025/</link>
     <brand>Changan</brand>
     <model>CS75 Plus</model>
     <year>2025</year>
     <title>Changan CS75 Plus Техно 2025</title>
-    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/0/full.webp?v=bcf6cff0f2cf</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/0/full.webp?v=88be700009cf</image_link>
     <price>4249900 RUB</price>
     <sale_price>3749900 RUB</sale_price>
     <min_price>3749900 RUB</min_price>
@@ -766,7 +743,7 @@
     <model>CS35 Max</model>
     <year>2025</year>
     <title>Changan CS35 Max Техно 2025</title>
-    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/0/full.webp?v=7d4cd4d02b72</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/0/full.webp?v=4eec2a6b7ee6</image_link>
     <price>2789900 RUB</price>
     <sale_price>2499900 RUB</sale_price>
     <min_price>2499900 RUB</min_price>
@@ -789,7 +766,7 @@
     <model>CS35 Max</model>
     <year>2026</year>
     <title>Changan CS35 Max Люкс 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/0/full.webp?v=21e806c2d089</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/0/full.webp?v=3a553adb55ea</image_link>
     <price>2739900 RUB</price>
     <sale_price>2449900 RUB</sale_price>
     <min_price>2449900 RUB</min_price>
@@ -927,7 +904,7 @@
     <model>UNI-V</model>
     <year>2024</year>
     <title>Changan UNI-V Техно 2024</title>
-    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE5SA942621/0/full.webp?v=1d11474dd916</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE5SA942621/0/full.webp?v=9f5b661547c8</image_link>
     <price>3329900 RUB</price>
     <sale_price>3329900 RUB</sale_price>
     <min_price>3329900 RUB</min_price>
@@ -1064,7 +1041,7 @@
     <model>CS35 Plus</model>
     <year>2025</year>
     <title>Changan CS35 Plus Техно 2025</title>
-    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR8SA005665/0/full.webp?v=49e54d125fcc</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR8SA005665/0/full.webp?v=bb4543b02d5d</image_link>
     <price>2839900 RUB</price>
     <sale_price>2099900 RUB</sale_price>
     <min_price>2099900 RUB</min_price>
@@ -1110,7 +1087,7 @@
     <model>CS35 Plus</model>
     <year>2025</year>
     <title>Changan CS35 Plus Техно 2025</title>
-    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005612/0/full.webp?v=9547508e39f9</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005612/0/full.webp?v=070bbad058f7</image_link>
     <price>2839900 RUB</price>
     <sale_price>1990900 RUB</sale_price>
     <min_price>1990900 RUB</min_price>
@@ -1179,7 +1156,7 @@
     <model>Hunter Plus</model>
     <year>2026</year>
     <title>Changan Hunter Plus Люкс 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A7TG802172/0/full.webp?v=59ce4053b623</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A7TG802172/0/full.webp?v=c45b774701b5</image_link>
     <price>4069900 RUB</price>
     <sale_price>3849900 RUB</sale_price>
     <min_price>3849900 RUB</min_price>
