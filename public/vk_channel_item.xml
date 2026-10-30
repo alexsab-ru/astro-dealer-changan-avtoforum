@@ -117,6 +117,29 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>ED3A3DKE3TA019068</id>
+    <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-techno-white-2026/</link>
+    <brand>Changan</brand>
+    <model>UNI-S</model>
+    <year>2026</year>
+    <title>Changan UNI-S Техно 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA019068/0/full.webp?v=52fee42d2bc0</image_link>
+    <price>3249900 RUB</price>
+    <sale_price>3249900 RUB</sale_price>
+    <min_price>3249900 RUB</min_price>
+    <max_price>3249900 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>ED3A3DKE3TA019068</vin>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>ED3A3DKE4TA017393</id>
     <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-techno-gold-2026/</link>
     <brand>Changan</brand>
@@ -137,6 +160,98 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>ED3A3DKE4TA017393</vin>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>ED3A3DKE4TA018303</id>
+    <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-luxury-white-2026/</link>
+    <brand>Changan</brand>
+    <model>UNI-S</model>
+    <year>2026</year>
+    <title>Changan UNI-S Люкс 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE4TA018303/0/full.webp?v=f71b103dfc2c</image_link>
+    <price>3079900 RUB</price>
+    <sale_price>3079900 RUB</sale_price>
+    <min_price>3079900 RUB</min_price>
+    <max_price>3079900 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Changan UNI-S, Люкс, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>ED3A3DKE4TA018303</vin>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>ED3A3DKE4TA019015</id>
+    <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-techno-white-2026/</link>
+    <brand>Changan</brand>
+    <model>UNI-S</model>
+    <year>2026</year>
+    <title>Changan UNI-S Техно 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE4TA019015/0/full.webp?v=e18163136339</image_link>
+    <price>3249900 RUB</price>
+    <sale_price>3249900 RUB</sale_price>
+    <min_price>3249900 RUB</min_price>
+    <max_price>3249900 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>ED3A3DKE4TA019015</vin>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>ED3A3DKE5TA018083</id>
+    <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-techno-black-2026/</link>
+    <brand>Changan</brand>
+    <model>UNI-S</model>
+    <year>2026</year>
+    <title>Changan UNI-S Техно 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE5TA018083/0/full.webp?v=c9a280397d02</image_link>
+    <price>3249900 RUB</price>
+    <sale_price>3249900 RUB</sale_price>
+    <min_price>3249900 RUB</min_price>
+    <max_price>3249900 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>ED3A3DKE5TA018083</vin>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>ED3A3DKE5TA018522</id>
+    <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-luxury-grey-2026/</link>
+    <brand>Changan</brand>
+    <model>UNI-S</model>
+    <year>2026</year>
+    <title>Changan UNI-S Люкс 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE5TA018522/0/full.webp?v=b44088eb41d6</image_link>
+    <price>3079900 RUB</price>
+    <sale_price>3079900 RUB</sale_price>
+    <min_price>3079900 RUB</min_price>
+    <max_price>3079900 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Changan UNI-S, Люкс, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>grey</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>ED3A3DKE5TA018522</vin>
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
@@ -186,6 +301,75 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>ED3A3DKE6TA019579</id>
+    <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-techno-grey-2026/</link>
+    <brand>Changan</brand>
+    <model>UNI-S</model>
+    <year>2026</year>
+    <title>Changan UNI-S Техно 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE6TA019579/0/full.webp?v=b15606f2a0b4</image_link>
+    <price>3249900 RUB</price>
+    <sale_price>3249900 RUB</sale_price>
+    <min_price>3249900 RUB</min_price>
+    <max_price>3249900 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>grey</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>ED3A3DKE6TA019579</vin>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>ED3A3DKE7TA018487</id>
+    <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-luxury-grey-2026/</link>
+    <brand>Changan</brand>
+    <model>UNI-S</model>
+    <year>2026</year>
+    <title>Changan UNI-S Люкс 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE7TA018487/0/full.webp?v=7bdcbab4df07</image_link>
+    <price>3079900 RUB</price>
+    <sale_price>3079900 RUB</sale_price>
+    <min_price>3079900 RUB</min_price>
+    <max_price>3079900 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Changan UNI-S, Люкс, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>grey</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>ED3A3DKE7TA018487</vin>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>ED3A3DKE7TA019557</id>
+    <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-techno-grey-2026/</link>
+    <brand>Changan</brand>
+    <model>UNI-S</model>
+    <year>2026</year>
+    <title>Changan UNI-S Техно 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE7TA019557/0/full.webp?v=9d997743e8be</image_link>
+    <price>3249900 RUB</price>
+    <sale_price>3249900 RUB</sale_price>
+    <min_price>3249900 RUB</min_price>
+    <max_price>3249900 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>grey</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>ED3A3DKE7TA019557</vin>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>ED3A3DKE8TA017039</id>
     <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-luxury-grey-2026/</link>
     <brand>Changan</brand>
@@ -206,6 +390,98 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>ED3A3DKE8TA017039</vin>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>ED3A3DKE8TA019325</id>
+    <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-luxury-black-2026/</link>
+    <brand>Changan</brand>
+    <model>UNI-S</model>
+    <year>2026</year>
+    <title>Changan UNI-S Люкс 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE8TA019325/0/full.webp?v=5ed33802582f</image_link>
+    <price>3079900 RUB</price>
+    <sale_price>3079900 RUB</sale_price>
+    <min_price>3079900 RUB</min_price>
+    <max_price>3079900 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Changan UNI-S, Люкс, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>ED3A3DKE8TA019325</vin>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>ED3A3DKE8TA019387</id>
+    <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-techno-grey-2026/</link>
+    <brand>Changan</brand>
+    <model>UNI-S</model>
+    <year>2026</year>
+    <title>Changan UNI-S Техно 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE8TA019387/0/full.webp?v=fc6b0ad37891</image_link>
+    <price>3249900 RUB</price>
+    <sale_price>3249900 RUB</sale_price>
+    <min_price>3249900 RUB</min_price>
+    <max_price>3249900 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>grey</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>ED3A3DKE8TA019387</vin>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>ED3A3DKE9TA018684</id>
+    <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-techno-gold-2026/</link>
+    <brand>Changan</brand>
+    <model>UNI-S</model>
+    <year>2026</year>
+    <title>Changan UNI-S Техно 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE9TA018684/0/full.webp?v=b4d979ae546d</image_link>
+    <price>3249900 RUB</price>
+    <sale_price>3249900 RUB</sale_price>
+    <min_price>3249900 RUB</min_price>
+    <max_price>3249900 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>gold</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>ED3A3DKE9TA018684</vin>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>ED3A3DKEXTA018743</id>
+    <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-techno-gold-2026/</link>
+    <brand>Changan</brand>
+    <model>UNI-S</model>
+    <year>2026</year>
+    <title>Changan UNI-S Техно 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKEXTA018743/0/full.webp?v=33e7f4aabdd6</image_link>
+    <price>3249900 RUB</price>
+    <sale_price>3249900 RUB</sale_price>
+    <min_price>3249900 RUB</min_price>
+    <max_price>3249900 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>gold</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>ED3A3DKEXTA018743</vin>
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
@@ -561,8 +837,8 @@
     <title>Changan UNI-K Техно 2024</title>
     <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA997094/0/full.webp?v=8d1494a911ea</image_link>
     <price>4699900 RUB</price>
-    <sale_price>4699900 RUB</sale_price>
-    <min_price>4699900 RUB</min_price>
+    <sale_price>3700000 RUB</sale_price>
+    <min_price>3700000 RUB</min_price>
     <max_price>4699900 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Changan UNI-K, Техно, 2.0 AT (226 л.с.) 4WD, 2024 г.</description>
@@ -599,6 +875,29 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>LS4ASE2A9SD912494</id>
+    <link>https://avto.avtoforum-changanauto.ru/cars/changan-cs75-plus-iii-20-at-233-hp-techno-grey-2024/</link>
+    <brand>Changan</brand>
+    <model>CS75 Plus</model>
+    <year>2024</year>
+    <title>Changan CS75 Plus Техно 2024</title>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD912494/0/full.webp?v=4dc8edb66f28</image_link>
+    <price>4029900 RUB</price>
+    <sale_price>4029900 RUB</sale_price>
+    <min_price>4029900 RUB</min_price>
+    <max_price>4029900 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Changan CS75 Plus, Техно, 2.0 AT (233 л.с.), 2024 г.</description>
+    <exterior_color>grey</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LS4ASE2A9SD912494</vin>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>LS4ASE2A9SD912527</id>
     <link>https://avto.avtoforum-changanauto.ru/cars/changan-cs75-plus-iii-20-at-233-hp-techno-grey-2024/</link>
     <brand>Changan</brand>
@@ -628,7 +927,7 @@
     <model>UNI-K</model>
     <year>2025</year>
     <title>Changan UNI-K Техно+ 2025</title>
-    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/0/full.webp?v=197ac49f31c4</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/0/full.webp?v=4bfcafb61fa7</image_link>
     <price>4929900 RUB</price>
     <sale_price>3899900 RUB</sale_price>
     <min_price>3899900 RUB</min_price>
@@ -668,13 +967,36 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>LS4ASE2E1TA707807</id>
+    <link>https://avto.avtoforum-changanauto.ru/cars/changan-cs75-pro-15-amt-147-hp-techno-5-seat-grey-2026/</link>
+    <brand>Changan</brand>
+    <model>CS75 Pro</model>
+    <year>2026</year>
+    <title>Changan CS75 Pro Техно 5 мест 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E1TA707807/0/full.webp?v=cf11bfeedc82</image_link>
+    <price>3055000 RUB</price>
+    <sale_price>3055000 RUB</sale_price>
+    <min_price>3055000 RUB</min_price>
+    <max_price>3055000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Changan CS75 Pro, Техно 5 мест, 1.5 AMT (147 л.с.), 2026 г.</description>
+    <exterior_color>grey</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LS4ASE2E1TA707807</vin>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>LS4ASE2E2SA251251</id>
     <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-15-amt-181-hp-techno-black-2025/</link>
     <brand>Changan</brand>
     <model>UNI-S</model>
     <year>2025</year>
     <title>Changan UNI-S Техно 2025</title>
-    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/0/full.webp?v=3f3e99acb349</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/0/full.webp?v=47a6457428b4</image_link>
     <price>3179900 RUB</price>
     <sale_price>2499900 RUB</sale_price>
     <min_price>2499900 RUB</min_price>
@@ -783,6 +1105,29 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>LS4ASE2E7TA707147</id>
+    <link>https://avto.avtoforum-changanauto.ru/cars/changan-cs75-pro-15-amt-147-hp-techno-5-seat-grey-2026/</link>
+    <brand>Changan</brand>
+    <model>CS75 Pro</model>
+    <year>2026</year>
+    <title>Changan CS75 Pro Техно 5 мест 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TA707147/0/full.webp?v=0d8437698499</image_link>
+    <price>3155000 RUB</price>
+    <sale_price>3155000 RUB</sale_price>
+    <min_price>3155000 RUB</min_price>
+    <max_price>3155000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Changan CS75 Pro, Техно 5 мест, 1.5 AMT (147 л.с.), 2026 г.</description>
+    <exterior_color>grey</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LS4ASE2E7TA707147</vin>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>LS4ASE2E7TA707231</id>
     <link>https://avto.avtoforum-changanauto.ru/cars/changan-cs75-pro-15-amt-147-hp-techno-5-seat-white-2026/</link>
     <brand>Changan</brand>
@@ -812,7 +1157,7 @@
     <model>CS35 Max</model>
     <year>2026</year>
     <title>Changan CS35 Max Техно 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TB085045/0/full.webp?v=169743f560ae</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TB085045/0/full.webp?v=c1b6824d3842</image_link>
     <price>2839900 RUB</price>
     <sale_price>2599900 RUB</sale_price>
     <min_price>2599900 RUB</min_price>
@@ -852,13 +1197,36 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>LS4ASE2E8TA705679</id>
+    <link>https://avto.avtoforum-changanauto.ru/cars/changan-cs75-pro-15-amt-147-hp-techno-5-seat-white-2026/</link>
+    <brand>Changan</brand>
+    <model>CS75 Pro</model>
+    <year>2026</year>
+    <title>Changan CS75 Pro Техно 5 мест 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E8TA705679/0/full.webp?v=b9a8220d8215</image_link>
+    <price>3055000 RUB</price>
+    <sale_price>3055000 RUB</sale_price>
+    <min_price>3055000 RUB</min_price>
+    <max_price>3055000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Changan CS75 Pro, Техно 5 мест, 1.5 AMT (147 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LS4ASE2E8TA705679</vin>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>LS4ASE2E9SB414343</id>
     <link>https://avto.avtoforum-changanauto.ru/cars/changan-cs35-max-15-amt-147-hp-comfort-white-2025/</link>
     <brand>Changan</brand>
     <model>CS35 Max</model>
     <year>2025</year>
     <title>Changan CS35 Max Комфорт 2025</title>
-    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E9SB414343/0/full.webp?v=72457a377977</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E9SB414343/0/full.webp?v=4e6ef3bba627</image_link>
     <price>2599900 RUB</price>
     <sale_price>2199900 RUB</sale_price>
     <min_price>2199900 RUB</min_price>
@@ -872,6 +1240,29 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>LS4ASE2E9SB414343</vin>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LS4ASE2E9TA707702</id>
+    <link>https://avto.avtoforum-changanauto.ru/cars/changan-cs75-pro-15-amt-147-hp-techno-5-seat-black-2026/</link>
+    <brand>Changan</brand>
+    <model>CS75 Pro</model>
+    <year>2026</year>
+    <title>Changan CS75 Pro Техно 5 мест 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E9TA707702/0/full.webp?v=c9ce7b982604</image_link>
+    <price>3055000 RUB</price>
+    <sale_price>3055000 RUB</sale_price>
+    <min_price>3055000 RUB</min_price>
+    <max_price>3055000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Changan CS75 Pro, Техно 5 мест, 1.5 AMT (147 л.с.), 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LS4ASE2E9TA707702</vin>
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
@@ -906,8 +1297,8 @@
     <title>Changan UNI-V Техно 2024</title>
     <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE5SA942621/0/full.webp?v=9f5b661547c8</image_link>
     <price>3329900 RUB</price>
-    <sale_price>3329900 RUB</sale_price>
-    <min_price>3329900 RUB</min_price>
+    <sale_price>2600000 RUB</sale_price>
+    <min_price>2600000 RUB</min_price>
     <max_price>3329900 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Changan UNI-V, Техно, 1.5 AMT (181 л.с.), 2024 г.</description>
@@ -920,13 +1311,57 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>LS5A2DKE9SA941343</id>
+    <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-v-i-15-amt-181-hp-techno-black-2024/</link>
+    <brand>Changan</brand>
+    <model>UNI-V</model>
+    <year>2024</year>
+    <title>Changan UNI-V Техно 2024</title>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE9SA941343/0/full.webp?v=ea4c2ca54930</image_link>
+    <price>3329900 RUB</price>
+    <sale_price>3329900 RUB</sale_price>
+    <min_price>3329900 RUB</min_price>
+    <max_price>3329900 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Changan UNI-V, Техно, 1.5 AMT (181 л.с.), 2024 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LS5A2DKE9SA941343</vin>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LS5A2DKEXSA941593</id>
+    <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-v-i-15-amt-181-hp-techno-white-2024/</link>
+    <brand>Changan</brand>
+    <model>UNI-V</model>
+    <year>2024</year>
+    <title>Changan UNI-V Техно 2024</title>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKEXSA941593/0/full.webp?v=4768bef514ee</image_link>
+    <price>3329900 RUB</price>
+    <sale_price>3329900 RUB</sale_price>
+    <min_price>3329900 RUB</min_price>
+    <max_price>3329900 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Changan UNI-V, Техно, 1.5 AMT (181 л.с.), 2024 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LS5A2DKEXSA941593</vin>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>LS5A2DKR9SA960669</id>
     <link>https://avto.avtoforum-changanauto.ru/cars/changan-eado-plus-i-14-amt-155-hp-techno-gray-2024/</link>
     <brand>Changan</brand>
     <model>Eado Plus</model>
     <year>2024</year>
     <title>Changan Eado Plus Техно 2024</title>
-    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/0/full.webp?v=77037248aaff</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/0/full.webp?v=c079d5c140bc</image_link>
     <price>2589900 RUB</price>
     <sale_price>2149900 RUB</sale_price>
     <min_price>2149900 RUB</min_price>
@@ -1110,7 +1545,7 @@
     <model>CS35 Plus</model>
     <year>2025</year>
     <title>Changan CS35 Plus Техно 2025</title>
-    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/0/full.webp?v=22fe7316eb7d</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/0/full.webp?v=164ee9863537</image_link>
     <price>2839900 RUB</price>
     <sale_price>1990900 RUB</sale_price>
     <min_price>1990900 RUB</min_price>
@@ -1124,6 +1559,29 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>LS5A3DKR9SA005805</vin>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LS5A3DKR9SA006534</id>
+    <link>https://avto.avtoforum-changanauto.ru/cars/changan-cs35-plus-i-facelift-14-amt-150-hp-techno-white-2025/</link>
+    <brand>Changan</brand>
+    <model>CS35 Plus</model>
+    <year>2025</year>
+    <title>Changan CS35 Plus Техно 2025</title>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA006534/0/full.webp?v=7598b9ca8eb1</image_link>
+    <price>2839900 RUB</price>
+    <sale_price>2839900 RUB</sale_price>
+    <min_price>2839900 RUB</min_price>
+    <max_price>2839900 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Changan CS35 Plus, Техно, 1.4 AMT (150 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LS5A3DKR9SA006534</vin>
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
@@ -1244,7 +1702,7 @@
     <model>Hunter Plus</model>
     <year>2026</year>
     <title>Changan Hunter Plus Комфорт 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2T9TG801154/0/full.webp?v=2863a823d223</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2T9TG801154/0/full.webp?v=0cfa57fd8470</image_link>
     <price>4249900 RUB</price>
     <sale_price>4199900 RUB</sale_price>
     <min_price>4199900 RUB</min_price>

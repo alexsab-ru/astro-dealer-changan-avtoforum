@@ -117,13 +117,13 @@
       <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (147 л.с.) 4WD, 2026 г., белый</description>
       <images>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017627/0/full.webp?v=d8a4392432f7</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017627/1/full.webp?v=e05a48151551</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017627/1/full.webp?v=7de9077a0b54</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017627/2/full.webp?v=722ffc99dddb</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017627/3/full.webp?v=60e0535a7d12</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017627/4/full.webp?v=168d428541ae</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017627/5/full.webp?v=33e1fa654d59</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017627/6/full.webp?v=0fd5161546ba</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017627/7/full.webp?v=1b4c52a1f464</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017627/7/full.webp?v=acb55b1d82ac</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017627/8/full.webp?v=d47dfef7f524</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017627/9/full.webp?v=2a06b8f99a49</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017627/10/full.webp?v=6cd666b9bf2d</image>
@@ -165,6 +165,29 @@
       </images>
     </car>
     <car>
+      <unique_id>ED3A3DKE3TA019068</unique_id>
+      <url>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-techno-white-2026/</url>
+      <mark_id>Changan</mark_id>
+      <folder_id>UNI-S</folder_id>
+      <year>2026</year>
+      <vin>ED3A3DKE3TA019068</vin>
+      <price>3249900</price>
+      <sale_price>3249900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <color>белый</color>
+      <run>0</run>
+      <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (147 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA019068/0/full.webp?v=52fee42d2bc0</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA019068/1/full.webp?v=edd3cd6acf47</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA019068/2/full.webp?v=41ee267f1d40</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA019068/3/full.webp?v=d36d9de941b5</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA019068/4/full.webp?v=d7f4bc1485cf</image>
+      </images>
+    </car>
+    <car>
       <unique_id>ED3A3DKE4TA017393</unique_id>
       <url>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-techno-gold-2026/</url>
       <mark_id>Changan</mark_id>
@@ -187,6 +210,89 @@
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE4TA017393/5/full.webp?v=c5e56f7b3f90</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE4TA017393/6/full.webp?v=3431f2f35af5</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE4TA017393/7/full.webp?v=3942b25bf1ab</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>ED3A3DKE4TA018303</unique_id>
+      <url>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-luxury-white-2026/</url>
+      <mark_id>Changan</mark_id>
+      <folder_id>UNI-S</folder_id>
+      <year>2026</year>
+      <vin>ED3A3DKE4TA018303</vin>
+      <price>3079900</price>
+      <sale_price>3079900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <color>белый</color>
+      <run>0</run>
+      <description>Автомобиль Changan UNI-S, Люкс, 1.5 AMT (147 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE4TA018303/0/full.webp?v=f71b103dfc2c</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>ED3A3DKE4TA019015</unique_id>
+      <url>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-techno-white-2026/</url>
+      <mark_id>Changan</mark_id>
+      <folder_id>UNI-S</folder_id>
+      <year>2026</year>
+      <vin>ED3A3DKE4TA019015</vin>
+      <price>3249900</price>
+      <sale_price>3249900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <color>белый</color>
+      <run>0</run>
+      <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (147 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE4TA019015/0/full.webp?v=e18163136339</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE4TA019015/1/full.webp?v=fe93ea88f124</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE4TA019015/2/full.webp?v=dbd28d1f584e</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE4TA019015/3/full.webp?v=ebf89457ae39</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE4TA019015/4/full.webp?v=c9bd9af37848</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>ED3A3DKE5TA018083</unique_id>
+      <url>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-techno-black-2026/</url>
+      <mark_id>Changan</mark_id>
+      <folder_id>UNI-S</folder_id>
+      <year>2026</year>
+      <vin>ED3A3DKE5TA018083</vin>
+      <price>3249900</price>
+      <sale_price>3249900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <color>черный</color>
+      <run>0</run>
+      <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (147 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE5TA018083/0/full.webp?v=c9a280397d02</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE5TA018083/1/full.webp?v=d7c169b8f021</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE5TA018083/2/full.webp?v=bb40780dfb04</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE5TA018083/3/full.webp?v=22ffc98da2e1</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE5TA018083/4/full.webp?v=f4a84cb35248</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>ED3A3DKE5TA018522</unique_id>
+      <url>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-luxury-grey-2026/</url>
+      <mark_id>Changan</mark_id>
+      <folder_id>UNI-S</folder_id>
+      <year>2026</year>
+      <vin>ED3A3DKE5TA018522</vin>
+      <price>3079900</price>
+      <sale_price>3079900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <run>0</run>
+      <description>Автомобиль Changan UNI-S, Люкс, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE5TA018522/0/full.webp?v=b44088eb41d6</image>
       </images>
     </car>
     <car>
@@ -244,6 +350,68 @@
       </images>
     </car>
     <car>
+      <unique_id>ED3A3DKE6TA019579</unique_id>
+      <url>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-techno-grey-2026/</url>
+      <mark_id>Changan</mark_id>
+      <folder_id>UNI-S</folder_id>
+      <year>2026</year>
+      <vin>ED3A3DKE6TA019579</vin>
+      <price>3249900</price>
+      <sale_price>3249900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <run>0</run>
+      <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE6TA019579/0/full.webp?v=b15606f2a0b4</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE6TA019579/1/full.webp?v=309b40434e45</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE6TA019579/2/full.webp?v=318e9fdbc751</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE6TA019579/3/full.webp?v=9016552bbb8c</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE6TA019579/4/full.webp?v=3e733a0874c3</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>ED3A3DKE7TA018487</unique_id>
+      <url>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-luxury-grey-2026/</url>
+      <mark_id>Changan</mark_id>
+      <folder_id>UNI-S</folder_id>
+      <year>2026</year>
+      <vin>ED3A3DKE7TA018487</vin>
+      <price>3079900</price>
+      <sale_price>3079900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <run>0</run>
+      <description>Автомобиль Changan UNI-S, Люкс, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE7TA018487/0/full.webp?v=7bdcbab4df07</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>ED3A3DKE7TA019557</unique_id>
+      <url>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-techno-grey-2026/</url>
+      <mark_id>Changan</mark_id>
+      <folder_id>UNI-S</folder_id>
+      <year>2026</year>
+      <vin>ED3A3DKE7TA019557</vin>
+      <price>3249900</price>
+      <sale_price>3249900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <run>0</run>
+      <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE7TA019557/0/full.webp?v=9d997743e8be</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE7TA019557/1/full.webp?v=b45e417cddf3</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE7TA019557/2/full.webp?v=7b72cc8e0a76</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE7TA019557/3/full.webp?v=0343dec00590</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE7TA019557/4/full.webp?v=5edb5c2be73e</image>
+      </images>
+    </car>
+    <car>
       <unique_id>ED3A3DKE8TA017039</unique_id>
       <url>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-luxury-grey-2026/</url>
       <mark_id>Changan</mark_id>
@@ -259,6 +427,91 @@
       <description>Автомобиль Changan UNI-S, Люкс, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
       <images>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE8TA017039/0/full.webp?v=7f17357c6f5d</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>ED3A3DKE8TA019325</unique_id>
+      <url>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-luxury-black-2026/</url>
+      <mark_id>Changan</mark_id>
+      <folder_id>UNI-S</folder_id>
+      <year>2026</year>
+      <vin>ED3A3DKE8TA019325</vin>
+      <price>3079900</price>
+      <sale_price>3079900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <color>черный</color>
+      <run>0</run>
+      <description>Автомобиль Changan UNI-S, Люкс, 1.5 AMT (147 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE8TA019325/0/full.webp?v=5ed33802582f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>ED3A3DKE8TA019387</unique_id>
+      <url>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-techno-grey-2026/</url>
+      <mark_id>Changan</mark_id>
+      <folder_id>UNI-S</folder_id>
+      <year>2026</year>
+      <vin>ED3A3DKE8TA019387</vin>
+      <price>3249900</price>
+      <sale_price>3249900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <run>0</run>
+      <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE8TA019387/0/full.webp?v=fc6b0ad37891</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE8TA019387/1/full.webp?v=57caeb9fc259</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE8TA019387/2/full.webp?v=a8ddbef71631</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE8TA019387/3/full.webp?v=f4a06c40deb8</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE8TA019387/4/full.webp?v=a7cbe9233101</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>ED3A3DKE9TA018684</unique_id>
+      <url>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-techno-gold-2026/</url>
+      <mark_id>Changan</mark_id>
+      <folder_id>UNI-S</folder_id>
+      <year>2026</year>
+      <vin>ED3A3DKE9TA018684</vin>
+      <price>3249900</price>
+      <sale_price>3249900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <run>0</run>
+      <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE9TA018684/0/full.webp?v=b4d979ae546d</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE9TA018684/1/full.webp?v=80528ffd58a3</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE9TA018684/2/full.webp?v=21a938b836db</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE9TA018684/3/full.webp?v=54938d606f4b</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE9TA018684/4/full.webp?v=94aeeebfa961</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>ED3A3DKEXTA018743</unique_id>
+      <url>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-techno-gold-2026/</url>
+      <mark_id>Changan</mark_id>
+      <folder_id>UNI-S</folder_id>
+      <year>2026</year>
+      <vin>ED3A3DKEXTA018743</vin>
+      <price>3249900</price>
+      <sale_price>3249900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <run>0</run>
+      <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKEXTA018743/0/full.webp?v=33e7f4aabdd6</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKEXTA018743/1/full.webp?v=1a993c9ab799</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKEXTA018743/2/full.webp?v=0c61a500ec1a</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKEXTA018743/3/full.webp?v=c743ad08f779</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKEXTA018743/4/full.webp?v=3f9d42b31cff</image>
       </images>
     </car>
     <car>
@@ -441,7 +694,7 @@
       <images>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/0/full.webp?v=8bdbac8ac064</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/1/full.webp?v=add31ff99a42</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/2/full.webp?v=5828ac491b06</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/2/full.webp?v=fa63b45fcf8b</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/3/full.webp?v=9e10f110ee21</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/4/full.webp?v=15a65e56b9bb</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/5/full.webp?v=767fbf933b6d</image>
@@ -449,13 +702,13 @@
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/7/full.webp?v=48fe626b1d4e</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/8/full.webp?v=cb36a262d437</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/9/full.webp?v=492ca7b61333</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/10/full.webp?v=82c4130bb306</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/10/full.webp?v=e5a6923ca2d3</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/11/full.webp?v=041334ac95a7</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/12/full.webp?v=4c25793650ff</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/13/full.webp?v=ff841d964969</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/13/full.webp?v=2d46eea52fbc</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/14/full.webp?v=174e4c2bc9a9</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/15/full.webp?v=446d7af5f546</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/16/full.webp?v=16119ed8dd06</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/16/full.webp?v=ec86a310a03f</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/17/full.webp?v=3e58f829a52f</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/18/full.webp?v=ea9936a28f13</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/19/full.webp?v=66995baf7e7b</image>
@@ -639,15 +892,15 @@
       <images>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/0/full.webp?v=5a319e0b17de</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/1/full.webp?v=fc900feefdfc</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/2/full.webp?v=0b3ff8c16e95</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/3/full.webp?v=2432185f5641</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/2/full.webp?v=808292c03eb4</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/3/full.webp?v=d12657c2a78e</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/4/full.webp?v=1ab189b7ba0e</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/5/full.webp?v=c05e1c0a6cda</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/5/full.webp?v=30b9ad8ed7e9</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/6/full.webp?v=2796c8500861</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/7/full.webp?v=4a4741dd0f84</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/8/full.webp?v=f468970734bb</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/9/full.webp?v=621651feddc6</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/10/full.webp?v=2835cb20dd66</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/10/full.webp?v=1703e023c154</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/11/full.webp?v=7cbb50bc3c9c</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/12/full.webp?v=04a30e727f7a</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/13/full.webp?v=e1d391484454</image>
@@ -658,7 +911,7 @@
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/18/full.webp?v=8a27e34e2a6e</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/19/full.webp?v=e103338f7027</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/20/full.webp?v=b90b433a7421</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/21/full.webp?v=8a1033a52379</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/21/full.webp?v=70ce828ecf06</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/22/full.webp?v=e1099ee36b8c</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/23/full.webp?v=3dfe6a9a1aca</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/24/full.webp?v=bb891845c90e</image>
@@ -682,15 +935,15 @@
       <description>Автомобиль Changan UNI-V, Техно, 1.5 AMT (181 л.с.), 2026 г.</description>
       <images>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/0/full.webp?v=fc5f62125d95</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/1/full.webp?v=9ff50383db2d</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/1/full.webp?v=96844cc71360</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/2/full.webp?v=4a2edd14a8f7</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/3/full.webp?v=fca50a6ac720</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/4/full.webp?v=f6de84b7548c</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/5/full.webp?v=c837bf45b4d1</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/6/full.webp?v=6614ef5cd08c</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/7/full.webp?v=4e7be9deacd7</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/5/full.webp?v=85b8278954cf</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/6/full.webp?v=8a98cd024412</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/7/full.webp?v=b5170e371581</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/8/full.webp?v=20a66d963938</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/9/full.webp?v=d4aef3095cfd</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/9/full.webp?v=adb9f90f60e5</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/10/full.webp?v=9e734762d625</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/11/full.webp?v=a00f69946484</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/12/full.webp?v=2fbf88cf02ba</image>
@@ -773,7 +1026,7 @@
       <images>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/0/full.webp?v=1af615441b38</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/1/full.webp?v=feadf61e1a57</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/2/full.webp?v=18fe0920ecb4</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/2/full.webp?v=1a7ecc4ed988</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/3/full.webp?v=8126ef3d402c</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/4/full.webp?v=dafe672d5178</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/5/full.webp?v=a63819d1bbb7</image>
@@ -783,10 +1036,10 @@
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/9/full.webp?v=31a26db353db</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/10/full.webp?v=f71f3c6acab1</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/11/full.webp?v=e813f23b23eb</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/12/full.webp?v=70f78a6c7b57</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/12/full.webp?v=74c78d3b08f3</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/13/full.webp?v=b70304d1d2ae</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/14/full.webp?v=097cb26bb626</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/15/full.webp?v=b6cde9f8ab35</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/14/full.webp?v=5ebbf139891b</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/15/full.webp?v=95b0923db220</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/16/full.webp?v=87e4e815816b</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/17/full.webp?v=969bb731cced</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/18/full.webp?v=cb8836f2390d</image>
@@ -803,7 +1056,7 @@
       <year>2024</year>
       <vin>LS4ASE2A9SA997094</vin>
       <price>4699900</price>
-      <sale_price>4699900</sale_price>
+      <sale_price>3700000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>0</max_benefit>
@@ -830,19 +1083,37 @@
       <description>Автомобиль Changan CS75 Plus, Техно, 2.0 AT (235 л.с.) 4WD, 2025 г.</description>
       <images>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/0/full.webp?v=88be700009cf</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/1/full.webp?v=460b8b74df5b</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/1/full.webp?v=d558d4477dce</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/2/full.webp?v=d142fb3f1653</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/3/full.webp?v=14d19a257e20</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/4/full.webp?v=b9c22c485856</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/5/full.webp?v=5dc876f4719f</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/6/full.webp?v=a6f50a0cc449</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/7/full.webp?v=61002ab99039</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/8/full.webp?v=ff5bb1ecc135</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/8/full.webp?v=2f6e6650e8a5</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/9/full.webp?v=0f2d558b7b9e</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/10/full.webp?v=faedcd835a22</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/11/full.webp?v=a685399c6adc</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/12/full.webp?v=c5cc313d26d6</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/13/full.webp?v=e2bf2acd6735</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/12/full.webp?v=d9bc90a3c533</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/13/full.webp?v=9b1a7a68ef47</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LS4ASE2A9SD912494</unique_id>
+      <url>https://avto.avtoforum-changanauto.ru/cars/changan-cs75-plus-iii-20-at-233-hp-techno-grey-2024/</url>
+      <mark_id>Changan</mark_id>
+      <folder_id>CS75 Plus</folder_id>
+      <year>2024</year>
+      <vin>LS4ASE2A9SD912494</vin>
+      <price>4029900</price>
+      <sale_price>4029900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <run>0</run>
+      <description>Автомобиль Changan CS75 Plus, Техно, 2.0 AT (233 л.с.), 2024 г.</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD912494/0/full.webp?v=4dc8edb66f28</image>
       </images>
     </car>
     <car>
@@ -901,15 +1172,15 @@
       <run>0</run>
       <description>Автомобиль Changan UNI-K, Техно+, 2.0 AT (226 л.с.) 4WD, 2025 г., белый</description>
       <images>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/0/full.webp?v=197ac49f31c4</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/0/full.webp?v=4bfcafb61fa7</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/1/full.webp?v=6a48924e83d7</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/2/full.webp?v=cac28309ceed</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/3/full.webp?v=73cf1fe30e2b</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/4/full.webp?v=044d026618a6</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/5/full.webp?v=8e00ea2ae458</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/3/full.webp?v=c04ca4cfb540</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/4/full.webp?v=e48f3a7a9bba</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/5/full.webp?v=dd1edfa24188</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/6/full.webp?v=cb3453c0c380</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/7/full.webp?v=930e959786d2</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/8/full.webp?v=0566f93f3b05</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/8/full.webp?v=7a4e348e2ea6</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/9/full.webp?v=e40149b01095</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/10/full.webp?v=df24ef9ec268</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/11/full.webp?v=d600b40a8904</image>
@@ -976,6 +1247,24 @@
       </images>
     </car>
     <car>
+      <unique_id>LS4ASE2E1TA707807</unique_id>
+      <url>https://avto.avtoforum-changanauto.ru/cars/changan-cs75-pro-15-amt-147-hp-techno-5-seat-grey-2026/</url>
+      <mark_id>Changan</mark_id>
+      <folder_id>CS75 Pro</folder_id>
+      <year>2026</year>
+      <vin>LS4ASE2E1TA707807</vin>
+      <price>3055000</price>
+      <sale_price>3055000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <run>0</run>
+      <description>Автомобиль Changan CS75 Pro, Техно 5 мест, 1.5 AMT (147 л.с.), 2026 г.</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E1TA707807/0/full.webp?v=cf11bfeedc82</image>
+      </images>
+    </car>
+    <car>
       <unique_id>LS4ASE2E2SA251251</unique_id>
       <url>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-15-amt-181-hp-techno-black-2025/</url>
       <mark_id>Changan</mark_id>
@@ -991,19 +1280,19 @@
       <run>0</run>
       <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (181 л.с.), 2025 г., черный</description>
       <images>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/0/full.webp?v=3f3e99acb349</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/0/full.webp?v=47a6457428b4</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/1/full.webp?v=b7bd4d519f6f</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/2/full.webp?v=c8a0c3a6efef</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/3/full.webp?v=7af7fffe4e69</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/4/full.webp?v=ee860edca908</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/4/full.webp?v=189ecf6744b4</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/5/full.webp?v=1500d7c52d10</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/6/full.webp?v=fc8594a84f0f</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/7/full.webp?v=b29c44aaaca8</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/7/full.webp?v=36d0a0081047</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/8/full.webp?v=a9bdd9aefd72</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/9/full.webp?v=c206c4616251</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/9/full.webp?v=a9c200ecb425</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/10/full.webp?v=d1384c7c184e</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/11/full.webp?v=8a9c6e230e5a</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/12/full.webp?v=790232f0a5ff</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/12/full.webp?v=78ba10e67810</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/13/full.webp?v=b905253f7b19</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/14/full.webp?v=a7429611a2fc</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/15/full.webp?v=82f603993171</image>
@@ -1073,12 +1362,12 @@
       <description>Автомобиль Changan CS35 Max, Техно, 1.5 AMT (147 л.с.), 2025 г., черный</description>
       <images>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/0/full.webp?v=4eec2a6b7ee6</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/1/full.webp?v=832ac161481b</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/1/full.webp?v=038de295352b</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/2/full.webp?v=1b0a31318da9</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/3/full.webp?v=bb51701a4872</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/4/full.webp?v=c08da0392875</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/5/full.webp?v=5700b27c50af</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/6/full.webp?v=83b7501429ce</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/4/full.webp?v=c7e321572753</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/5/full.webp?v=bbf063bb51a7</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/6/full.webp?v=3d2b5df93fc6</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/7/full.webp?v=6aadff3f0b1f</image>
       </images>
     </car>
@@ -1098,20 +1387,38 @@
       <description>Автомобиль Changan CS35 Max, Люкс, 1.5 AMT (147 л.с.), 2026 г.</description>
       <images>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/0/full.webp?v=3a553adb55ea</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/1/full.webp?v=dbefec91b907</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/2/full.webp?v=16f63dfacb39</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/1/full.webp?v=64d9ff204b71</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/2/full.webp?v=16176820d536</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/3/full.webp?v=cbd2aa065796</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/4/full.webp?v=18019a333458</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/5/full.webp?v=6d7992cb95b7</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/6/full.webp?v=67933899135e</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/5/full.webp?v=43069f4e098d</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/6/full.webp?v=43b3fc9d5bc8</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/8/full.webp?v=959434174b63</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/8/full.webp?v=e10ba7dd07d5</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/8/full.webp?v=1117dad99642</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/9/full.webp?v=3483a4b20ff0</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/10/full.webp?v=84ee6edbd419</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/11/full.webp?v=9c4a4e5a37d9</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/13/full.webp?v=a80e28ed2af7</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/13/full.webp?v=4d0501f7f093</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB083545/14/full.webp?v=80f03a419791</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LS4ASE2E7TA707147</unique_id>
+      <url>https://avto.avtoforum-changanauto.ru/cars/changan-cs75-pro-15-amt-147-hp-techno-5-seat-grey-2026/</url>
+      <mark_id>Changan</mark_id>
+      <folder_id>CS75 Pro</folder_id>
+      <year>2026</year>
+      <vin>LS4ASE2E7TA707147</vin>
+      <price>3155000</price>
+      <sale_price>3155000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <run>0</run>
+      <description>Автомобиль Changan CS75 Pro, Техно 5 мест, 1.5 AMT (147 л.с.), 2026 г.</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TA707147/0/full.webp?v=0d8437698499</image>
       </images>
     </car>
     <car>
@@ -1131,12 +1438,12 @@
       <description>Автомобиль Changan CS75 Pro, Техно 5 мест, 1.5 AMT (147 л.с.), 2026 г., белый</description>
       <images>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TA707231/0/full.webp?v=d8855dfabe23</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TA707231/1/full.webp?v=832ce79c359d</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TA707231/1/full.webp?v=c5d0a5c42261</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TA707231/2/full.webp?v=07fcb5672eca</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TA707231/3/full.webp?v=ab8a1f9e1b3e</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TA707231/4/full.webp?v=0e6a5d4adbe9</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TA707231/3/full.webp?v=184060679213</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TA707231/4/full.webp?v=c1a444857ecb</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TA707231/5/full.webp?v=eb93051d5de3</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TA707231/6/full.webp?v=9c5bc2ab1493</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TA707231/6/full.webp?v=8fb8d08100f0</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TA707231/7/full.webp?v=22e3caabc247</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TA707231/8/full.webp?v=3b496ae23e71</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TA707231/9/full.webp?v=2100b6488302</image>
@@ -1159,7 +1466,7 @@
       <run>0</run>
       <description>Автомобиль Changan CS35 Max, Техно, 1.5 AMT (147 л.с.), 2026 г., черный</description>
       <images>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TB085045/0/full.webp?v=169743f560ae</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TB085045/0/full.webp?v=c1b6824d3842</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TB085045/1/full.webp?v=c4cad2a69e5c</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TB085045/2/full.webp?v=bcd1a8da9f10</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TB085045/3/full.webp?v=932c1035d3a1</image>
@@ -1203,6 +1510,29 @@
       </images>
     </car>
     <car>
+      <unique_id>LS4ASE2E8TA705679</unique_id>
+      <url>https://avto.avtoforum-changanauto.ru/cars/changan-cs75-pro-15-amt-147-hp-techno-5-seat-white-2026/</url>
+      <mark_id>Changan</mark_id>
+      <folder_id>CS75 Pro</folder_id>
+      <year>2026</year>
+      <vin>LS4ASE2E8TA705679</vin>
+      <price>3055000</price>
+      <sale_price>3055000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <color>белый</color>
+      <run>0</run>
+      <description>Автомобиль Changan CS75 Pro, Техно 5 мест, 1.5 AMT (147 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E8TA705679/0/full.webp?v=b9a8220d8215</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E8TA705679/1/full.webp?v=f30faf89bde9</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E8TA705679/2/full.webp?v=282987a63946</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E8TA705679/3/full.webp?v=4cebb868544a</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E8TA705679/4/full.webp?v=715299f11e27</image>
+      </images>
+    </car>
+    <car>
       <unique_id>LS4ASE2E9SB414343</unique_id>
       <url>https://avto.avtoforum-changanauto.ru/cars/changan-cs35-max-15-amt-147-hp-comfort-white-2025/</url>
       <mark_id>Changan</mark_id>
@@ -1218,13 +1548,36 @@
       <run>0</run>
       <description>Автомобиль Changan CS35 Max, Комфорт, 1.5 AMT (147 л.с.), 2025 г., белый</description>
       <images>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E9SB414343/0/full.webp?v=72457a377977</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E9SB414343/0/full.webp?v=4e6ef3bba627</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E9SB414343/1/full.webp?v=a291c868b355</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E9SB414343/2/full.webp?v=baca38c7ce6c</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E9SB414343/2/full.webp?v=69117d64f9f5</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E9SB414343/3/full.webp?v=ccf76113ff95</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E9SB414343/4/full.webp?v=536b06d937c7</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E9SB414343/5/full.webp?v=2e11f206dcce</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E9SB414343/6/full.webp?v=e6f167627bac</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E9SB414343/5/full.webp?v=070d74bb4f25</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E9SB414343/6/full.webp?v=a2043fdf161a</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LS4ASE2E9TA707702</unique_id>
+      <url>https://avto.avtoforum-changanauto.ru/cars/changan-cs75-pro-15-amt-147-hp-techno-5-seat-black-2026/</url>
+      <mark_id>Changan</mark_id>
+      <folder_id>CS75 Pro</folder_id>
+      <year>2026</year>
+      <vin>LS4ASE2E9TA707702</vin>
+      <price>3055000</price>
+      <sale_price>3055000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <color>черный</color>
+      <run>0</run>
+      <description>Автомобиль Changan CS75 Pro, Техно 5 мест, 1.5 AMT (147 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E9TA707702/0/full.webp?v=c9ce7b982604</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E9TA707702/1/full.webp?v=7d9ffcfc0051</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E9TA707702/2/full.webp?v=9502f79387cb</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E9TA707702/3/full.webp?v=06049686b1e8</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E9TA707702/4/full.webp?v=0ed8cc421497</image>
       </images>
     </car>
     <car>
@@ -1244,13 +1597,13 @@
       <description>Автомобиль Changan Alsvin, Техно, 1.5 AMT (98 л.с.), 2025 г., синий</description>
       <images>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2ASE5SD001683/0/full.webp?v=3825bec07094</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2ASE5SD001683/1/full.webp?v=2ac47176f364</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2ASE5SD001683/1/full.webp?v=d516bb8141c3</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2ASE5SD001683/2/full.webp?v=93971ced2240</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2ASE5SD001683/3/full.webp?v=27ccfb8687a8</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2ASE5SD001683/3/full.webp?v=971c1a82c2e5</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2ASE5SD001683/4/full.webp?v=ba4f614295a8</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2ASE5SD001683/5/full.webp?v=b8179ffe0b0c</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2ASE5SD001683/6/full.webp?v=d4ddc998dfdf</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2ASE5SD001683/7/full.webp?v=9ed9499a4a4e</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2ASE5SD001683/7/full.webp?v=9ec3a0e77e0b</image>
       </images>
     </car>
     <car>
@@ -1261,7 +1614,7 @@
       <year>2024</year>
       <vin>LS5A2DKE5SA942621</vin>
       <price>3329900</price>
-      <sale_price>3329900</sale_price>
+      <sale_price>2600000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>0</max_benefit>
@@ -1286,6 +1639,48 @@
       </images>
     </car>
     <car>
+      <unique_id>LS5A2DKE9SA941343</unique_id>
+      <url>https://avto.avtoforum-changanauto.ru/cars/changan-uni-v-i-15-amt-181-hp-techno-black-2024/</url>
+      <mark_id>Changan</mark_id>
+      <folder_id>UNI-V</folder_id>
+      <year>2024</year>
+      <vin>LS5A2DKE9SA941343</vin>
+      <price>3329900</price>
+      <sale_price>3329900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <color>черный</color>
+      <run>0</run>
+      <description>Автомобиль Changan UNI-V, Техно, 1.5 AMT (181 л.с.), 2024 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE9SA941343/0/full.webp?v=ea4c2ca54930</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LS5A2DKEXSA941593</unique_id>
+      <url>https://avto.avtoforum-changanauto.ru/cars/changan-uni-v-i-15-amt-181-hp-techno-white-2024/</url>
+      <mark_id>Changan</mark_id>
+      <folder_id>UNI-V</folder_id>
+      <year>2024</year>
+      <vin>LS5A2DKEXSA941593</vin>
+      <price>3329900</price>
+      <sale_price>3329900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <color>белый</color>
+      <run>0</run>
+      <description>Автомобиль Changan UNI-V, Техно, 1.5 AMT (181 л.с.), 2024 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKEXSA941593/0/full.webp?v=4768bef514ee</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKEXSA941593/1/full.webp?v=2b69f35eefbf</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKEXSA941593/2/full.webp?v=56430ec5effd</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKEXSA941593/3/full.webp?v=1e5a692b8c14</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKEXSA941593/4/full.webp?v=20c8bd710f84</image>
+      </images>
+    </car>
+    <car>
       <unique_id>LS5A2DKR9SA960669</unique_id>
       <url>https://avto.avtoforum-changanauto.ru/cars/changan-eado-plus-i-14-amt-155-hp-techno-gray-2024/</url>
       <mark_id>Changan</mark_id>
@@ -1300,17 +1695,17 @@
       <run>0</run>
       <description>Автомобиль Changan Eado Plus, Техно, 1.4 AMT (155 л.с.), 2024 г.</description>
       <images>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/0/full.webp?v=77037248aaff</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/0/full.webp?v=c079d5c140bc</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/1/full.webp?v=be8ee6e7dfad</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/2/full.webp?v=3a79e8ca63aa</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/2/full.webp?v=ad7295ca8c82</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/3/full.webp?v=601eb9923794</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/4/full.webp?v=83663f3f100b</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/5/full.webp?v=a82956a077ad</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/6/full.webp?v=175ef2115c13</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/6/full.webp?v=b1cc9988c28c</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/7/full.webp?v=d1fdc0a598f3</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/8/full.webp?v=35afc401d1b7</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/9/full.webp?v=b12e46136cde</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/10/full.webp?v=9637d565307c</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/9/full.webp?v=d4f6d77e9fef</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/10/full.webp?v=7fdea60e2975</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/11/full.webp?v=afa0306d84fe</image>
       </images>
     </car>
@@ -1360,17 +1755,17 @@
       <description>Автомобиль Changan UNI-T, Техно_25, 1.5 AMT (167 л.с.), 2024 г.</description>
       <images>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE7SA994328/0/full.webp?v=e3e2aa167290</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE7SA994328/1/full.webp?v=e796bc98a2f9</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE7SA994328/2/full.webp?v=c5d1fa37c99b</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE7SA994328/1/full.webp?v=50e22e5c25f3</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE7SA994328/2/full.webp?v=0ffc726144f8</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE7SA994328/3/full.webp?v=16281011e0b0</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE7SA994328/4/full.webp?v=11eba0396042</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE7SA994328/5/full.webp?v=cdb47a346f17</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE7SA994328/6/full.webp?v=83f97a3e50d9</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE7SA994328/7/full.webp?v=48fb2326b3fc</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE7SA994328/8/full.webp?v=e574529a9a6a</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE7SA994328/9/full.webp?v=dda3b7284c4c</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE7SA994328/10/full.webp?v=a1e7d4b145b6</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE7SA994328/11/full.webp?v=a8d8d784594f</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE7SA994328/9/full.webp?v=5ec8450230c1</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE7SA994328/10/full.webp?v=31cf769f6ed9</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE7SA994328/11/full.webp?v=796b7d577ef6</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE7SA994328/12/full.webp?v=be650a1af657</image>
       </images>
     </car>
@@ -1392,22 +1787,21 @@
       <images>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/0/full.webp?v=d834c65ad28e</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/1/full.webp?v=b75bc8bff34f</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/2/full.webp?v=a72acf9f6324</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/2/full.webp?v=a29538f4f43c</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/3/full.webp?v=a777473f12af</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/4/full.webp?v=9c4b15c603c4</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/5/full.webp?v=476ea9033ae4</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/6/full.webp?v=b4eb241e5c2d</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/7/full.webp?v=db76c2964cb9</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/7/full.webp?v=3b25d0dff7e6</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/8/full.webp?v=f3170b05a748</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/9/full.webp?v=757debc9ddb2</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/10/full.webp?v=5454a9431ac3</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/11/full.webp?v=17511ea76a2d</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/12/full.webp?v=e72e55111b80</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/13/full.webp?v=157606804dad</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/14/full.webp?v=5b97b58b8d39</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/15/full.webp?v=f2a03d6de3dd</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/15/full.webp?v=c0f06ba0009b</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/16/full.webp?v=bd3520496a4e</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/17/full.webp?v=5f8bb781a7f7</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/17/full.webp?v=cae9b4c4450b</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/18/full.webp?v=4b6d304be874</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/19/full.webp?v=64d604a9de14</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/20/full.webp?v=c2cd0b11ea21</image>
@@ -1589,7 +1983,7 @@
       <run>0</run>
       <description>Автомобиль Changan CS35 Plus, Техно, 1.4 AMT (150 л.с.), 2025 г., серебряный</description>
       <images>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/0/full.webp?v=22fe7316eb7d</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/0/full.webp?v=164ee9863537</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/1/full.webp?v=a3e171c93846</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/2/full.webp?v=2a2a3dc57fd3</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/3/full.webp?v=3605ffe43d82</image>
@@ -1598,15 +1992,38 @@
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/6/full.webp?v=307d6f6a946e</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/7/full.webp?v=8f17cfb8e536</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/8/full.webp?v=70e04e17a157</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/9/full.webp?v=f2097bc424a8</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/9/full.webp?v=121b7c0b71c2</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/10/full.webp?v=4509df77bb3f</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/11/full.webp?v=480d897b1a1f</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/12/full.webp?v=fb499680223a</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/12/full.webp?v=272eb4b3011e</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/13/full.webp?v=9f272b37a01e</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/14/full.webp?v=8e7c68baaa99</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/15/full.webp?v=c526796b798e</image>
         <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/16/full.webp?v=98dc2c927dcd</image>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/17/full.webp?v=1dac043f256a</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/17/full.webp?v=10dbb87447ff</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LS5A3DKR9SA006534</unique_id>
+      <url>https://avto.avtoforum-changanauto.ru/cars/changan-cs35-plus-i-facelift-14-amt-150-hp-techno-white-2025/</url>
+      <mark_id>Changan</mark_id>
+      <folder_id>CS35 Plus</folder_id>
+      <year>2025</year>
+      <vin>LS5A3DKR9SA006534</vin>
+      <price>2839900</price>
+      <sale_price>2839900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <color>белый</color>
+      <run>0</run>
+      <description>Автомобиль Changan CS35 Plus, Техно, 1.4 AMT (150 л.с.), 2025 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA006534/0/full.webp?v=7598b9ca8eb1</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA006534/1/full.webp?v=8db8319930ba</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA006534/2/full.webp?v=42db842b23c6</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA006534/3/full.webp?v=17ed1ca89c16</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA006534/4/full.webp?v=1306ac903072</image>
       </images>
     </car>
     <car>
@@ -1765,7 +2182,7 @@
       <run>0</run>
       <description>Автомобиль Changan Hunter Plus, Комфорт, 2.5d AT (146 л.с.) 4WD, 2026 г.</description>
       <images>
-        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2T9TG801154/0/full.webp?v=2863a823d223</image>
+        <image>https://cdn.alexsab.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2T9TG801154/0/full.webp?v=0cfa57fd8470</image>
       </images>
     </car>
   </cars>
