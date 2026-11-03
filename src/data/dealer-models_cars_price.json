@@ -8,19 +8,19 @@
   {
     "brand": "Changan",
     "model": "CS35 MAX",
-    "price": 2199900,
+    "price": 2399900,
     "benefit": 200000
   },
   {
     "brand": "Changan",
     "model": "CS35 PLUS",
-    "price": 1990000,
-    "benefit": 580000
+    "price": 2190000,
+    "benefit": 280000
   },
   {
     "brand": "Changan",
     "model": "CS75 PRO",
-    "price": 2949900,
+    "price": 2950000,
     "benefit": 0
   },
   {
@@ -32,13 +32,13 @@
   {
     "brand": "Changan",
     "model": "CS95",
-    "price": 3999900,
+    "price": 4199900,
     "benefit": 300000
   },
   {
     "brand": "Changan",
     "model": "EADO PLUS",
-    "price": 2149900,
+    "price": 2199900,
     "benefit": 250000
   },
   {
@@ -56,13 +56,13 @@
   {
     "brand": "Changan",
     "model": "UNI-S",
-    "price": 2499900,
+    "price": 2599900,
     "benefit": 550000
   },
   {
     "brand": "Changan",
     "model": "UNI-T",
-    "price": 2649900,
+    "price": 2699900,
     "benefit": 470000
   },
   {
