@@ -87,6 +87,8 @@
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE2TA017781/10/full.webp?v=fe998b17e442</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE2TA017781/11/full.webp?v=bd5b7fac22eb</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE2TA017781/12/full.webp?v=a38407bdd0e7</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE2TA017781/13/full.webp?v=d6930523083b</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE2TA017781/14/full.webp?v=f982f3cb18ce</image>
       </images>
     </car>
     <car>
@@ -105,13 +107,14 @@
       <run>0</run>
       <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (147 л.с.) 4WD, 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE2TA019093/0/full.webp?v=bf596c4fe4e8</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE2TA019093/0/full.webp?v=01b4b0b75c63</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE2TA019093/1/full.webp?v=048c15722723</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE2TA019093/2/full.webp?v=c0a29d9178f2</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE2TA019093/3/full.webp?v=d69d55e68d8c</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE2TA019093/4/full.webp?v=5106ec183f2b</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE2TA019093/5/full.webp?v=53b1231b02a2</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE2TA019093/6/full.webp?v=aee5f5098702</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE2TA019093/7/full.webp?v=935926bb30ea</image>
       </images>
     </car>
     <car>
@@ -145,6 +148,7 @@
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017627/12/full.webp?v=3d3a0f4c8e78</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017627/13/full.webp?v=27deb72cc872</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017627/14/full.webp?v=d6338d1f79f2</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017627/15/full.webp?v=1fddd37df867</image>
       </images>
     </car>
     <car>
@@ -162,12 +166,12 @@
       <run>0</run>
       <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
       <images>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017868/0/full.webp?v=42d5f8dd96fe</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017868/0/full.webp?v=351906d87b3f</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017868/1/full.webp?v=72cbf7e184c3</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017868/2/full.webp?v=bfeef1888dab</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017868/3/full.webp?v=9158f6f52f57</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017868/4/full.webp?v=05c128cdaf35</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017868/5/full.webp?v=645149a40fef</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017868/5/full.webp?v=b67fad6e1a21</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017868/6/full.webp?v=8800d8f610aa</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017868/7/full.webp?v=93ff8e4b9679</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE3TA017868/8/full.webp?v=4010491e5c9c</image>
@@ -320,6 +324,8 @@
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE5TA018083/12/full.webp?v=066a2738ad20</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE5TA018083/13/full.webp?v=990166447b56</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE5TA018083/14/full.webp?v=63b4322288dc</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE5TA018083/15/full.webp?v=9c862b80f961</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE5TA018083/16/full.webp?v=e4f17f7b066a</image>
       </images>
     </car>
     <car>
@@ -391,7 +397,7 @@
       <run>0</run>
       <description>Автомобиль Changan UNI-S, Люкс, 1.5 AMT (147 л.с.) 4WD, 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE6TA019226/0/full.webp?v=672d07486348</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE6TA019226/0/full.webp?v=3626d0e2887c</image>
       </images>
     </car>
     <car>
@@ -466,6 +472,7 @@
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE7TA019557/9/full.webp?v=bde81a4f234d</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE7TA019557/10/full.webp?v=1f2a6ca25686</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE7TA019557/11/full.webp?v=e0dc0762ec3e</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE7TA019557/12/full.webp?v=9bcaf477e178</image>
       </images>
     </car>
     <car>
@@ -502,7 +509,7 @@
       <run>0</run>
       <description>Автомобиль Changan UNI-S, Люкс, 1.5 AMT (147 л.с.) 4WD, 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE8TA019325/0/full.webp?v=5ed33802582f</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE8TA019325/0/full.webp?v=73f2711b5cce</image>
       </images>
     </car>
     <car>
@@ -601,8 +608,8 @@
       <run>0</run>
       <description>Автомобиль Changan CS35 Max, Техно, 1.5 AMT (147 л.с.), 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3BSE2EXTA000269/0/full.webp?v=22214be70083</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3BSE2EXTA000269/1/full.webp?v=93111b928601</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3BSE2EXTA000269/0/full.webp?v=96603602bb9d</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3BSE2EXTA000269/1/full.webp?v=f352e9f3b92f</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3BSE2EXTA000269/2/full.webp?v=e59ad2dc8744</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3BSE2EXTA000269/3/full.webp?v=1bd70f3d5a47</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3BSE2EXTA000269/4/full.webp?v=d3a78d3531c9</image>
@@ -683,6 +690,8 @@
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM3S0002742/13/full.webp?v=337160cbda19</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM3S0002742/14/full.webp?v=7730953c5e8b</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM3S0002742/15/full.webp?v=7df47b208840</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM3S0002742/16/full.webp?v=2e56c7d7db64</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM3S0002742/17/full.webp?v=6c249740432a</image>
       </images>
     </car>
     <car>
@@ -712,6 +721,8 @@
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6S0008633/8/full.webp?v=ce35da37aa69</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6S0008633/9/full.webp?v=ca53b978a094</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6S0008633/10/full.webp?v=9e3d1607465a</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6S0008633/11/full.webp?v=42e8ffbe8ba1</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6S0008633/12/full.webp?v=a950c8a593a1</image>
       </images>
     </car>
     <car>
@@ -745,6 +756,8 @@
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/13/full.webp?v=0dedfcc66192</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/14/full.webp?v=5bd18071a9a7</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/15/full.webp?v=6e9488364a94</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/16/full.webp?v=6eeefc692005</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/17/full.webp?v=68e057269826</image>
       </images>
     </car>
     <car>
@@ -778,6 +791,8 @@
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM8S0007435/13/full.webp?v=79f5478f160d</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM8S0007435/14/full.webp?v=a09a1c785759</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM8S0007435/15/full.webp?v=05e4fae41bbe</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM8S0007435/16/full.webp?v=e7868b0f40fc</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM8S0007435/17/full.webp?v=19ebd1bf5fca</image>
       </images>
     </car>
     <car>
@@ -826,9 +841,9 @@
       <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (181 л.с.), 2026 г., белый</description>
       <images>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0005864/0/full.webp?v=2eedfc9236ce</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0005864/1/full.webp?v=76429905df64</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0005864/1/full.webp?v=e0bbb3a9d2d0</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0005864/2/full.webp?v=e12c1a0d7111</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0005864/3/full.webp?v=668b1320748c</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0005864/3/full.webp?v=0cbf67de013d</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0005864/4/full.webp?v=c54a5be3bbb0</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0005864/5/full.webp?v=aa4857e14bda</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0005864/6/full.webp?v=109c81ce5ff4</image>
@@ -864,6 +879,8 @@
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0007727/11/full.webp?v=aa7301369390</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0007727/12/full.webp?v=5be9f25e8447</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0007727/13/full.webp?v=b1a381c9abe6</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0007727/14/full.webp?v=6504325f76c9</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0007727/15/full.webp?v=67e033c8891b</image>
       </images>
     </car>
     <car>
@@ -882,12 +899,12 @@
       <run>0</run>
       <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (181 л.с.), 2025 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0007744/0/full.webp?v=adcd69b5835b</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0007744/0/full.webp?v=ab7892e91ce7</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0007744/1/full.webp?v=1b8b3b1b04b7</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0007744/2/full.webp?v=5047a4cf5e91</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0007744/3/full.webp?v=81ebc20577f0</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0007744/4/full.webp?v=f31a705cca2a</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0007744/5/full.webp?v=1c6d2c1cd893</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0007744/5/full.webp?v=dd3094305b3e</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0007744/6/full.webp?v=9a9668f18133</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0007744/7/full.webp?v=43f5d98c7c19</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0007744/8/full.webp?v=47d447bae2ff</image>
@@ -925,6 +942,8 @@
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/8/full.webp?v=e4a6bffb2fd4</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/9/full.webp?v=7d3768e44090</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/10/full.webp?v=09b3baac402d</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/11/full.webp?v=3f76530b4fe2</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3TTUJDXT0000024/12/full.webp?v=36c3254fb90c</image>
       </images>
     </car>
     <car>
@@ -975,12 +994,12 @@
       <description>Автомобиль Changan CS95, Техно, 2.0 AT (226 л.с.) 4WD, 2024 г.</description>
       <images>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8RJ106027/0/full.webp?v=4fa7fb01b5ef</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8RJ106027/1/full.webp?v=454a56c88e6c</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8RJ106027/1/full.webp?v=0c1451f929d8</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8RJ106027/2/full.webp?v=a8c271145aae</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8RJ106027/3/full.webp?v=ef94280a0ebb</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8RJ106027/4/full.webp?v=c0fec1847bae</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8RJ106027/5/full.webp?v=796d6922fac8</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8RJ106027/6/full.webp?v=8c2be7bdc310</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8RJ106027/6/full.webp?v=68f386b47540</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8RJ106027/7/full.webp?v=a756a1d1bb6b</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8RJ106027/8/full.webp?v=f05364064a92</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8RJ106027/9/full.webp?v=f0a7381866ce</image>
@@ -1003,12 +1022,12 @@
       <description>Автомобиль Changan CS75 Plus, Люкс, 2.0 AT (235 л.с.) 4WD, 2025 г., белый</description>
       <images>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8SD014338/0/full.webp?v=8a72ffd56f51</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8SD014338/1/full.webp?v=f99e83ade9d9</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8SD014338/1/full.webp?v=a18ae783c821</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8SD014338/2/full.webp?v=6f5c55f6a3ce</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8SD014338/3/full.webp?v=5a38c4d4faff</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8SD014338/4/full.webp?v=4fa84c870f9b</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8SD014338/5/full.webp?v=443ba23ebe05</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8SD014338/6/full.webp?v=c4826b17fcb6</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8SD014338/6/full.webp?v=5778f023813c</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8SD014338/7/full.webp?v=c6032bc1e1c9</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8SD014338/8/full.webp?v=1ae3171ba528</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A8SD014338/9/full.webp?v=c1ae8d2dc3ec</image>
@@ -1033,12 +1052,12 @@
       <description>Автомобиль Changan UNI-K, Техно, 2.0 AT (226 л.с.) 4WD, 2024 г.</description>
       <images>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/0/full.webp?v=1af615441b38</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/1/full.webp?v=feadf61e1a57</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/1/full.webp?v=dc46979c0feb</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/2/full.webp?v=1a7ecc4ed988</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/3/full.webp?v=8126ef3d402c</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/4/full.webp?v=dafe672d5178</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/5/full.webp?v=a63819d1bbb7</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/6/full.webp?v=863270c91465</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/6/full.webp?v=0604e080c565</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/7/full.webp?v=ab04a9260cd2</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/8/full.webp?v=a3d03639fc4a</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SA996947/9/full.webp?v=79ce08c5933e</image>
@@ -1068,8 +1087,8 @@
       <description>Автомобиль Changan CS75 Plus, Техно, 2.0 AT (235 л.с.) 4WD, 2025 г.</description>
       <images>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/0/full.webp?v=88be700009cf</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/1/full.webp?v=d558d4477dce</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/2/full.webp?v=d810cbe1a08d</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/1/full.webp?v=460b8b74df5b</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/2/full.webp?v=d142fb3f1653</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/3/full.webp?v=14d19a257e20</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/4/full.webp?v=b9c22c485856</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2A9SD013408/5/full.webp?v=5dc876f4719f</image>
@@ -1112,6 +1131,8 @@
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/10/full.webp?v=c95449900aa0</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/11/full.webp?v=e4ddcd0df099</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/12/full.webp?v=d80f9fea2400</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/13/full.webp?v=0f9e18094fb0</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998335/14/full.webp?v=711a3b58978e</image>
       </images>
     </car>
     <car>
@@ -1145,6 +1166,8 @@
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998691/13/full.webp?v=afe62b9ed6a3</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998691/14/full.webp?v=f051f156d716</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998691/15/full.webp?v=7692f0696381</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998691/16/full.webp?v=5d6e8c684256</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2AXSA998691/17/full.webp?v=b2a2104d3394</image>
       </images>
     </car>
     <car>
@@ -1182,12 +1205,12 @@
       <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (181 л.с.), 2025 г., черный</description>
       <images>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/0/full.webp?v=47a6457428b4</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/1/full.webp?v=b7bd4d519f6f</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/1/full.webp?v=f8801536dcef</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/2/full.webp?v=c8a0c3a6efef</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/3/full.webp?v=7af7fffe4e69</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/4/full.webp?v=189ecf6744b4</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/5/full.webp?v=1500d7c52d10</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/6/full.webp?v=71756bc8c647</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/6/full.webp?v=fc8594a84f0f</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/7/full.webp?v=4773d65d4264</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/8/full.webp?v=9ba2a492e6f2</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E2SA251251/9/full.webp?v=ff0684b07714</image>
@@ -1254,8 +1277,8 @@
       <images>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E5TA707230/0/full.webp?v=6e84e1e42937</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E5TA707230/1/full.webp?v=512427bdb40d</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E5TA707230/2/full.webp?v=f10e63e9956b</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E5TA707230/3/full.webp?v=d8b7d17db1ae</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E5TA707230/2/full.webp?v=dd2f7b7096e0</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E5TA707230/3/full.webp?v=227b700045c6</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E5TA707230/4/full.webp?v=4ba662b74cc9</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E5TA707230/5/full.webp?v=9ede9d2ecb0a</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E5TA707230/6/full.webp?v=022a9ce5a296</image>
@@ -1282,9 +1305,9 @@
       <description>Автомобиль Changan CS35 Max, Техно, 1.5 AMT (147 л.с.), 2025 г., черный</description>
       <images>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/0/full.webp?v=4eec2a6b7ee6</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/1/full.webp?v=832ac161481b</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/1/full.webp?v=038de295352b</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/2/full.webp?v=1b0a31318da9</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/3/full.webp?v=bb51701a4872</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/3/full.webp?v=575fb847b39d</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/4/full.webp?v=c7e321572753</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/5/full.webp?v=bbf063bb51a7</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/6/full.webp?v=6df2b0cb570d</image>
@@ -1415,11 +1438,11 @@
       <images>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E8TA705679/0/full.webp?v=b9a8220d8215</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E8TA705679/1/full.webp?v=f30faf89bde9</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E8TA705679/2/full.webp?v=00f32ed3ee2e</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E8TA705679/2/full.webp?v=282987a63946</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E8TA705679/3/full.webp?v=4cebb868544a</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E8TA705679/4/full.webp?v=715299f11e27</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E8TA705679/5/full.webp?v=fdd578043b55</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E8TA705679/6/full.webp?v=1dcdc5ba1f94</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E8TA705679/6/full.webp?v=40fe8dcdeb58</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E8TA705679/7/full.webp?v=55b8ab1ca94a</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E8TA705679/8/full.webp?v=f2279d4cd0ee</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E8TA705679/9/full.webp?v=5d07b89bcb2a</image>
@@ -1501,7 +1524,7 @@
       <run>0</run>
       <description>Автомобиль Changan UNI-Z, Техно, 1.5 AMT (147 л.с.), 2026 г.</description>
       <images>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2EXTL215006/0/full.webp?v=30da4f7c5e17</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2EXTL215006/0/full.webp?v=50cd3bd32142</image>
       </images>
     </car>
     <car>
@@ -1521,10 +1544,10 @@
       <description>Автомобиль Changan Alsvin, Техно, 1.5 AMT (98 л.с.), 2025 г., синий</description>
       <images>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2ASE5SD001683/0/full.webp?v=3825bec07094</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2ASE5SD001683/1/full.webp?v=d516bb8141c3</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2ASE5SD001683/1/full.webp?v=2ac47176f364</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2ASE5SD001683/2/full.webp?v=93971ced2240</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2ASE5SD001683/3/full.webp?v=971c1a82c2e5</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2ASE5SD001683/4/full.webp?v=9660ed9ac3da</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2ASE5SD001683/4/full.webp?v=ba4f614295a8</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2ASE5SD001683/5/full.webp?v=a27f33f3adc7</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2ASE5SD001683/6/full.webp?v=2b1b1c7c0963</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2ASE5SD001683/7/full.webp?v=55dab7878e6f</image>
@@ -1563,12 +1586,12 @@
       </images>
     </car>
     <car>
-      <unique_id>LS5A2DKE9SA941343</unique_id>
+      <unique_id>LS5A2DKE6SA941655</unique_id>
       <url>https://avto.avtoforum-changanauto.ru/cars/changan-uni-v-i-15-amt-181-hp-techno-black-2024/</url>
       <mark_id>Changan</mark_id>
       <folder_id>UNI-V</folder_id>
       <year>2024</year>
-      <vin>LS5A2DKE9SA941343</vin>
+      <vin>LS5A2DKE6SA941655</vin>
       <price>3329900</price>
       <sale_price>2600000</sale_price>
       <currency>RUR</currency>
@@ -1578,21 +1601,8 @@
       <run>0</run>
       <description>Автомобиль Changan UNI-V, Техно, 1.5 AMT (181 л.с.), 2024 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE9SA941343/0/full.webp?v=512d873caf71</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE9SA941343/1/full.webp?v=7d7b9f107d53</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE9SA941343/2/full.webp?v=7da6df99cb63</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE9SA941343/3/full.webp?v=93a4b231a78b</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE9SA941343/4/full.webp?v=20b49f5f1c5e</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE9SA941343/5/full.webp?v=146cf15150b4</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE9SA941343/6/full.webp?v=1e74cbc756d2</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE9SA941343/7/full.webp?v=30eee6476540</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE9SA941343/8/full.webp?v=343add85c1ac</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE9SA941343/9/full.webp?v=d100636b1311</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE9SA941343/10/full.webp?v=6d8dd266b69f</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE9SA941343/11/full.webp?v=340cbcc6a6da</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE9SA941343/12/full.webp?v=cfca5af591ec</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE9SA941343/13/full.webp?v=cd0d906f8a1c</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE9SA941343/14/full.webp?v=512e7404d636</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE6SA941655/0/full.webp?v=d379352a9907</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE6SA941655/1/full.webp?v=5ddad1cba33f</image>
       </images>
     </car>
     <car>
@@ -1619,6 +1629,8 @@
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/6/full.webp?v=e8b8419f687c</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/7/full.webp?v=dce595591ebd</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/8/full.webp?v=89e4cbb8fd0f</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/9/full.webp?v=180c6af71278</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKR9SA960669/10/full.webp?v=0eda6760b81b</image>
       </images>
     </car>
     <car>
@@ -1637,8 +1649,8 @@
       <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
       <images>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE2TA234759/0/full.webp?v=f168f05941df</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE2TA234759/1/full.webp?v=2aaf8bf04735</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE2TA234759/2/full.webp?v=2853d5453556</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE2TA234759/1/full.webp?v=2bf7ab6dd4b4</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE2TA234759/2/full.webp?v=7c86acdee220</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE2TA234759/3/full.webp?v=6e2acdad6e54</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE2TA234759/4/full.webp?v=1cdf00337c7b</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE2TA234759/5/full.webp?v=43555c10b35d</image>
@@ -1714,6 +1726,8 @@
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/14/full.webp?v=de8683c20cec</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/15/full.webp?v=662a4fca3c25</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/16/full.webp?v=304c48f2443d</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/17/full.webp?v=15f5490f84d4</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA700368/18/full.webp?v=21fa007dee21</image>
       </images>
     </car>
     <car>
@@ -1749,6 +1763,8 @@
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA994242/15/full.webp?v=2a6e5735a50f</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA994242/16/full.webp?v=87f4f1fe8a54</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA994242/17/full.webp?v=81e15d4c99bf</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA994242/18/full.webp?v=abed92be4c77</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKE8SA994242/19/full.webp?v=840270467855</image>
       </images>
     </car>
     <car>
@@ -1766,11 +1782,11 @@
       <run>0</run>
       <description>Автомобиль Changan CS35 Plus, Техно, 1.4 AMT (150 л.с.), 2025 г.</description>
       <images>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR8SA005665/0/full.webp?v=bb4543b02d5d</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR8SA005665/0/full.webp?v=49e54d125fcc</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR8SA005665/1/full.webp?v=9c7cdbfbd8be</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR8SA005665/2/full.webp?v=8f2855d2867f</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR8SA005665/3/full.webp?v=f32ae105b99a</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR8SA005665/4/full.webp?v=440f78616870</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR8SA005665/4/full.webp?v=f6791a39f604</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR8SA005665/5/full.webp?v=6e860fc1a126</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR8SA005665/6/full.webp?v=ec7d8bc142af</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR8SA005665/7/full.webp?v=d7bd5d7715c4</image>
@@ -1802,9 +1818,9 @@
       <run>0</run>
       <description>Автомобиль Changan CS35 Plus, Техно, 1.4 AMT (150 л.с.), 2025 г.</description>
       <images>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR8SA005875/0/full.webp?v=63029ef7a26c</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR8SA005875/0/full.webp?v=76698740c18d</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR8SA005875/1/full.webp?v=cf5727a36b91</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR8SA005875/2/full.webp?v=f3a081aae940</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR8SA005875/2/full.webp?v=0f436cfecabe</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR8SA005875/3/full.webp?v=be82a75261fb</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR8SA005875/4/full.webp?v=3df3b5c0829a</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR8SA005875/5/full.webp?v=ce122c720563</image>
@@ -1841,6 +1857,8 @@
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005612/6/full.webp?v=fd27ede12f7e</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005612/7/full.webp?v=9650d647abac</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005612/8/full.webp?v=741938aa058f</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005612/9/full.webp?v=65198c668ffc</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005612/10/full.webp?v=0f49b529c161</image>
       </images>
     </car>
     <car>
@@ -1860,12 +1878,12 @@
       <description>Автомобиль Changan CS35 Plus, Техно, 1.4 AMT (150 л.с.), 2025 г., серебряный</description>
       <images>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/0/full.webp?v=164ee9863537</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/1/full.webp?v=a3e171c93846</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/1/full.webp?v=7d20bcb4ee9a</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/2/full.webp?v=2a2a3dc57fd3</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/3/full.webp?v=3605ffe43d82</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/4/full.webp?v=48eacbab88be</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/5/full.webp?v=55cb92d79d1e</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/6/full.webp?v=e470865a3160</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/6/full.webp?v=307d6f6a946e</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/7/full.webp?v=09fe7926398a</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/8/full.webp?v=1f320cbb4f89</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/9/full.webp?v=bc6af462a10e</image>
@@ -1922,11 +1940,11 @@
       <description>Автомобиль Changan CS35 Plus, Техно, 1.4 AMT (150 л.с.), 2025 г., красный</description>
       <images>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA010390/0/full.webp?v=79d9b18227bd</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA010390/1/full.webp?v=228a268ba839</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA010390/1/full.webp?v=b391c429175a</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA010390/2/full.webp?v=7e489027f1cb</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA010390/3/full.webp?v=b0c2da3f6cef</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA010390/4/full.webp?v=4c24ceaeb718</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA010390/5/full.webp?v=d506c0d3e429</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA010390/5/full.webp?v=e17e3c66fd7e</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA010390/6/full.webp?v=2477309e94b4</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA010390/7/full.webp?v=9145b9c3fb99</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA010390/8/full.webp?v=07b560504045</image>
@@ -1951,13 +1969,13 @@
       <description>Автомобиль Changan Hunter Plus, Люкс, 2.0 AT (226 л.с.) 4WD, 2026 г., белый</description>
       <images>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A7TG802172/0/full.webp?v=c45b774701b5</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A7TG802172/1/full.webp?v=b9e42a738381</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A7TG802172/1/full.webp?v=3a82b8edb534</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A7TG802172/2/full.webp?v=70934b4a4223</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A7TG802172/3/full.webp?v=52f6861485b9</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A7TG802172/4/full.webp?v=d1908fc658d7</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A7TG802172/5/full.webp?v=0620a085ac8c</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A7TG802172/6/full.webp?v=7a2421321c9c</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A7TG802172/7/full.webp?v=9a0212b51856</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A7TG802172/7/full.webp?v=ef79fba7fda7</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A7TG802172/8/full.webp?v=49c7e2bfb6ee</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A7TG802172/9/full.webp?v=22ab7592e429</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A7TG802172/10/full.webp?v=753b7df78e66</image>
@@ -1979,12 +1997,12 @@
       <run>0</run>
       <description>Автомобиль Changan Hunter Plus, Люкс, 2.0 AT (226 л.с.) 4WD, 2026 г., серебряный</description>
       <images>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A9TG802836/0/full.webp?v=b88797210988</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A9TG802836/0/full.webp?v=6abb4e9e8676</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A9TG802836/1/full.webp?v=6547a69fa762</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A9TG802836/2/full.webp?v=d15f4b11c9a1</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A9TG802836/3/full.webp?v=6b565b1ae6bd</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A9TG802836/4/full.webp?v=e7b624676123</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A9TG802836/5/full.webp?v=19b95f5d5519</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A9TG802836/5/full.webp?v=583c85b4f1eb</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A9TG802836/6/full.webp?v=02a7e5e367de</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A9TG802836/7/full.webp?v=437c5c5cb285</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LSCBBZ2A9TG802836/8/full.webp?v=9bf999342e88</image>
