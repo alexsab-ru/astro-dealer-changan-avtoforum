@@ -1151,29 +1151,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>LS4ASE2E9SB414343</id>
-    <link>https://avto.avtoforum-changanauto.ru/cars/changan-cs35-max-15-amt-147-hp-comfort-white-2025/</link>
-    <brand>Changan</brand>
-    <model>CS35 Max</model>
-    <year>2025</year>
-    <title>Changan CS35 Max Комфорт 2025</title>
-    <image_link>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E9SB414343/0/full.webp?v=72457a377977</image_link>
-    <price>2599900 RUB</price>
-    <sale_price>2399900 RUB</sale_price>
-    <min_price>2399900 RUB</min_price>
-    <max_price>2599900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Changan CS35 Max, Комфорт, 1.5 AMT (147 л.с.), 2025 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LS4ASE2E9SB414343</vin>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>LS4ASE2E9TA707702</id>
     <link>https://avto.avtoforum-changanauto.ru/cars/changan-cs75-pro-15-amt-147-hp-techno-5-seat-black-2026/</link>
     <brand>Changan</brand>
@@ -1446,29 +1423,6 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>LS5A3DKR9SA005612</vin>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>LS5A3DKR9SA005805</id>
-    <link>https://avto.avtoforum-changanauto.ru/cars/changan-cs35-plus-i-facelift-14-amt-150-hp-techno-silver-2025/</link>
-    <brand>Changan</brand>
-    <model>CS35 Plus</model>
-    <year>2025</year>
-    <title>Changan CS35 Plus Техно 2025</title>
-    <image_link>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A3DKR9SA005805/0/full.webp?v=22fe7316eb7d</image_link>
-    <price>2839900 RUB</price>
-    <sale_price>2190000 RUB</sale_price>
-    <min_price>2190000 RUB</min_price>
-    <max_price>2839900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Changan CS35 Plus, Техно, 1.4 AMT (150 л.с.), 2025 г.</description>
-    <exterior_color>Серебристый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LS5A3DKR9SA005805</vin>
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
