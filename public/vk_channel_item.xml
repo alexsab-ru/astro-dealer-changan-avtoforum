@@ -468,7 +468,7 @@
     <model>UNI-S</model>
     <year>2026</year>
     <title>Changan UNI-S Техно 2026</title>
-    <image_link>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKEXTA018743/0/full.webp?v=33e7f4aabdd6</image_link>
+    <image_link>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKEXTA018743/0/full.webp?v=34e38771bff2</image_link>
     <price>3249900 RUB</price>
     <sale_price>3199900 RUB</sale_price>
     <min_price>3199900 RUB</min_price>
@@ -577,29 +577,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>ED3STHFM6T0010996</id>
-    <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-15-amt-181-hp-techno-grey-2026/</link>
-    <brand>Changan</brand>
-    <model>UNI-S</model>
-    <year>2026</year>
-    <title>Changan UNI-S Техно 2026</title>
-    <image_link>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFM6T0010996/0/full.webp?v=8bdbac8ac064</image_link>
-    <price>3229900 RUB</price>
-    <sale_price>2649900 RUB</sale_price>
-    <min_price>2649900 RUB</min_price>
-    <max_price>3229900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (181 л.с.), 2026 г.</description>
-    <exterior_color>grey</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>ED3STHFM6T0010996</vin>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>ED3STHFM9S0008559</id>
     <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-15-amt-181-hp-techno-red-2026/</link>
     <brand>Changan</brand>
@@ -666,29 +643,6 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>ED3STHFMXS0007727</vin>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>ED3STHFMXS0007744</id>
-    <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-15-amt-181-hp-techno-black-2025/</link>
-    <brand>Changan</brand>
-    <model>UNI-S</model>
-    <year>2025</year>
-    <title>Changan UNI-S Техно 2025</title>
-    <image_link>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3STHFMXS0007744/0/full.webp?v=adcd69b5835b</image_link>
-    <price>3179900 RUB</price>
-    <sale_price>2599900 RUB</sale_price>
-    <min_price>2599900 RUB</min_price>
-    <max_price>3179900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Changan UNI-S, Техно, 1.5 AMT (181 л.с.), 2025 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>ED3STHFMXS0007744</vin>
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
@@ -882,7 +836,7 @@
     <model>CS75 Pro</model>
     <year>2026</year>
     <title>Changan CS75 Pro Техно 5 мест 2026</title>
-    <image_link>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E4TA705775/0/full.webp?v=3d73a0e7ecd6</image_link>
+    <image_link>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E4TA705775/0/full.webp?v=bf27db860bf1</image_link>
     <price>3055000 RUB</price>
     <sale_price>2950000 RUB</sale_price>
     <min_price>2950000 RUB</min_price>
@@ -1135,7 +1089,7 @@
     <model>UNI-V</model>
     <year>2024</year>
     <title>Changan UNI-V Техно 2024</title>
-    <image_link>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE6SA941655/0/full.webp?v=d379352a9907</image_link>
+    <image_link>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE6SA941655/0/full.webp?v=7f322e01c125</image_link>
     <price>3329900 RUB</price>
     <sale_price>2600000 RUB</sale_price>
     <min_price>2600000 RUB</min_price>
