@@ -907,38 +907,6 @@
       </images>
     </car>
     <car>
-      <unique_id>ED3VTHJD9T0000385</unique_id>
-      <url>https://avto.avtoforum-changanauto.ru/cars/changan-uni-v-i-15-amt-181-hp-techno-grey-2026/</url>
-      <mark_id>Changan</mark_id>
-      <folder_id>UNI-V</folder_id>
-      <year>2026</year>
-      <vin>ED3VTHJD9T0000385</vin>
-      <price>3529900</price>
-      <sale_price>3399900</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>130000</max_benefit>
-      <run>0</run>
-      <description>Автомобиль Changan UNI-V, Техно, 1.5 AMT (181 л.с.), 2026 г.</description>
-      <images>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/0/full.webp?v=fc5f62125d95</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/1/full.webp?v=96844cc71360</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/2/full.webp?v=4a2edd14a8f7</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/3/full.webp?v=b6a5e3afd6b5</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/4/full.webp?v=a858d1ecfcb5</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/5/full.webp?v=85b8278954cf</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/6/full.webp?v=6614ef5cd08c</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/7/full.webp?v=4e7be9deacd7</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/8/full.webp?v=ae981eb52906</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/9/full.webp?v=322e82f4e049</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/10/full.webp?v=e767a87017de</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/11/full.webp?v=074305de5f5c</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/12/full.webp?v=d02b96525e24</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/13/full.webp?v=e53ad9cd51d8</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/14/full.webp?v=c212a4b27d38</image>
-      </images>
-    </car>
-    <car>
       <unique_id>LS4ASE2A8RJ106027</unique_id>
       <url>https://avto.avtoforum-changanauto.ru/cars/changan-cs95-i-facelift-2-20-at-226-hp-4wd-techno-grey-2024/</url>
       <mark_id>Changan</mark_id>
@@ -1462,6 +1430,8 @@
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2EXTL215006/3/full.webp?v=38f73d105a9e</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2EXTL215006/4/full.webp?v=4a013386f573</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2EXTL215006/5/full.webp?v=04a0c69baaaf</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2EXTL215006/6/full.webp?v=3b46fed07be0</image>
+        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2EXTL215006/7/full.webp?v=f319fad77594</image>
       </images>
     </car>
     <car>

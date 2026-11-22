@@ -692,28 +692,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>ED3VTHJD9T0000385</id>
-    <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-v-i-15-amt-181-hp-techno-grey-2026/</link>
-    <brand>Changan</brand>
-    <model>UNI-V</model>
-    <year>2026</year>
-    <title>Changan UNI-V Техно 2026</title>
-    <image_link>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3VTHJD9T0000385/0/full.webp?v=fc5f62125d95</image_link>
-    <price>3529900 RUB</price>
-    <sale_price>3399900 RUB</sale_price>
-    <min_price>3399900 RUB</min_price>
-    <max_price>3529900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Changan UNI-V, Техно, 1.5 AMT (181 л.с.), 2026 г.</description>
-    <exterior_color>grey</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>ED3VTHJD9T0000385</vin>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>LS4ASE2A8RJ106027</id>
     <link>https://avto.avtoforum-changanauto.ru/cars/changan-cs95-i-facelift-2-20-at-226-hp-4wd-techno-grey-2024/</link>
     <brand>Changan</brand>
