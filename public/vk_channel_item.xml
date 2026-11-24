@@ -1060,28 +1060,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>LS5A2DKE6SA941655</id>
-    <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-v-i-15-amt-181-hp-techno-black-2024/</link>
-    <brand>Changan</brand>
-    <model>UNI-V</model>
-    <year>2024</year>
-    <title>Changan UNI-V Техно 2024</title>
-    <image_link>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS5A2DKE6SA941655/0/full.webp?v=d379352a9907</image_link>
-    <price>3329900 RUB</price>
-    <sale_price>2600000 RUB</sale_price>
-    <min_price>2600000 RUB</min_price>
-    <max_price>3329900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Changan UNI-V, Техно, 1.5 AMT (181 л.с.), 2024 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>LS5A2DKE6SA941655</vin>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>LS5A2DKR9SA960669</id>
     <link>https://avto.avtoforum-changanauto.ru/cars/changan-eado-plus-i-14-amt-155-hp-techno-gray-2024/</link>
     <brand>Changan</brand>
