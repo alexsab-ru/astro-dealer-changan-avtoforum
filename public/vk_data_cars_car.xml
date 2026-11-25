@@ -253,33 +253,6 @@
       </images>
     </car>
     <car>
-      <unique_id>ED3A3DKE4TA018303</unique_id>
-      <url>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-luxury-white-2026/</url>
-      <mark_id>Changan</mark_id>
-      <folder_id>UNI-S</folder_id>
-      <year>2026</year>
-      <vin>ED3A3DKE4TA018303</vin>
-      <price>3079900</price>
-      <sale_price>3030000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>40000</max_benefit>
-      <color>белый</color>
-      <run>0</run>
-      <description>Автомобиль Changan UNI-S, Люкс, 1.5 AMT (147 л.с.) 4WD, 2026 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE4TA018303/0/full.webp?v=769545bb30da</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE4TA018303/1/full.webp?v=5204f2acc23e</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE4TA018303/2/full.webp?v=b25881eac655</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE4TA018303/3/full.webp?v=214d127cb967</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE4TA018303/4/full.webp?v=32bcf8519936</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE4TA018303/5/full.webp?v=50bd45f7910e</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE4TA018303/6/full.webp?v=c3d6084c0314</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE4TA018303/7/full.webp?v=6b5d52403158</image>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE4TA018303/8/full.webp?v=40d1cbb42f57</image>
-      </images>
-    </car>
-    <car>
       <unique_id>ED3A3DKE4TA019015</unique_id>
       <url>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-techno-white-2026/</url>
       <mark_id>Changan</mark_id>
@@ -1169,24 +1142,6 @@
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/5/full.webp?v=bbf063bb51a7</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/6/full.webp?v=83b7501429ce</image>
         <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E6TB082671/7/full.webp?v=c6c967dd2385</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>LS4ASE2E7TA707147</unique_id>
-      <url>https://avto.avtoforum-changanauto.ru/cars/changan-cs75-pro-15-amt-147-hp-techno-5-seat-grey-2026/</url>
-      <mark_id>Changan</mark_id>
-      <folder_id>CS75 Pro</folder_id>
-      <year>2026</year>
-      <vin>LS4ASE2E7TA707147</vin>
-      <price>3155000</price>
-      <sale_price>3050000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>0</max_benefit>
-      <run>0</run>
-      <description>Автомобиль Changan CS75 Pro, Техно 5 мест, 1.5 AMT (147 л.с.), 2026 г.</description>
-      <images>
-        <image>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TA707147/0/full.webp?v=0d8437698499</image>
       </images>
     </car>
     <car>

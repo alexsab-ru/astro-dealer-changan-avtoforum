@@ -186,29 +186,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>ED3A3DKE4TA018303</id>
-    <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-luxury-white-2026/</link>
-    <brand>Changan</brand>
-    <model>UNI-S</model>
-    <year>2026</year>
-    <title>Changan UNI-S Люкс 2026</title>
-    <image_link>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/ED3A3DKE4TA018303/0/full.webp?v=769545bb30da</image_link>
-    <price>3079900 RUB</price>
-    <sale_price>3030000 RUB</sale_price>
-    <min_price>3030000 RUB</min_price>
-    <max_price>3079900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Changan UNI-S, Люкс, 1.5 AMT (147 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>ED3A3DKE4TA018303</vin>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>ED3A3DKE4TA019015</id>
     <link>https://avto.avtoforum-changanauto.ru/cars/changan-uni-s-i-facelift-15-amt-147-hp-4wd-techno-white-2026/</link>
     <brand>Changan</brand>
@@ -896,29 +873,6 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>LS4ASE2E6TB082671</vin>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>LS4ASE2E7TA707147</id>
-    <link>https://avto.avtoforum-changanauto.ru/cars/changan-cs75-pro-15-amt-147-hp-techno-5-seat-grey-2026/</link>
-    <brand>Changan</brand>
-    <model>CS75 Pro</model>
-    <year>2026</year>
-    <title>Changan CS75 Pro Техно 5 мест 2026</title>
-    <image_link>https://img.upspace.ru/cars/avto.avtoforum-changanauto.ru/new/LS4ASE2E7TA707147/0/full.webp?v=0d8437698499</image_link>
-    <price>3155000 RUB</price>
-    <sale_price>3050000 RUB</sale_price>
-    <min_price>3050000 RUB</min_price>
-    <max_price>3155000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Changan CS75 Pro, Техно 5 мест, 1.5 AMT (147 л.с.), 2026 г.</description>
-    <exterior_color>grey</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LS4ASE2E7TA707147</vin>
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
